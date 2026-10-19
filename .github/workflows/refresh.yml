@@ -1,8 +1,8 @@
-name: Refresh Bilibili videos
+﻿name: Refresh Bilibili videos
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -29,3 +29,4 @@ jobs:
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "Refresh Bilibili videos"
           git push
+
