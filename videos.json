@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-19T11:32:56.003Z",
+  "generatedAt": "2026-10-19T12:15:09.265Z",
   "videos": [
     {
-      "bvid": "BV19hn36VEY1",
-      "title": "【比赛集锦】欧冠联赛阶段第二轮，哈宝梅开二度，曼城2-4巴黎圣日耳曼",
+      "bvid": "BV1ULnJ6xE83",
+      "title": "INSIDE CITY 530 | 国际比赛日结束众将回归后的城里动态，对阵利物浦和巴黎比赛的台前幕后",
       "author": "曼城足球俱乐部",
       "creator": "official",
-      "pic": "https://i1.hdslb.com/bfs/archive/17ffde5ce76ad59eb027fb65b11175ef46976b79.jpg",
-      "duration": "2:17",
-      "pubdate": 1792321302,
-      "play": 4061
+      "pic": "https://i2.hdslb.com/bfs/archive/1a5ee068ce15c9c182ba9ff4dcb2a79854c9be91.jpg",
+      "duration": "21:23",
+      "pubdate": 1792407516,
+      "play": 2883
     },
     {
       "bvid": "BV1oCng6LEof",
@@ -19,7 +19,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/b8841c3d01998d6526b1f5d285b46f6fa6317d51.jpg",
       "duration": "8:59",
       "pubdate": 1792295651,
-      "play": 11195
+      "play": 11251
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -29,7 +29,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
       "duration": "9:47",
       "pubdate": 1792294987,
-      "play": 8434
+      "play": 8490
     },
     {
       "bvid": "BV15PnM6NExx",
@@ -39,7 +39,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/7df4d333ab61901b078f4fbabe150537bb98e3ac.jpg",
       "duration": "5:37",
       "pubdate": 1792293340,
-      "play": 2066
+      "play": 2071
     },
     {
       "bvid": "BV1cDJy61Ej7",
@@ -49,7 +49,17 @@
       "pic": "https://i1.hdslb.com/bfs/archive/3138899fe15a6d7b86606793820a4d5739b5a1cf.jpg",
       "duration": "12:58",
       "pubdate": 1792054356,
-      "play": 18113
+      "play": 18125
+    },
+    {
+      "bvid": "BV1tip96oEMm",
+      "title": "曼城的“香蕉文化”",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i1.hdslb.com/bfs/archive/1a78c5e65909e4b1d4deff4f05c7b14c0beca8b5.jpg",
+      "duration": "0:51",
+      "pubdate": 1791795463,
+      "play": 4804
     }
   ]
 }
