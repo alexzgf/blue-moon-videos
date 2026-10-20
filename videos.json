@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-20T02:07:43.218Z",
+  "generatedAt": "2026-10-20T02:44:00.967Z",
   "videos": [
+    {
+      "bvid": "BV16bJR66ExH",
+      "title": "🤩✨曼城太子回来了！",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i0.hdslb.com/bfs/archive/b142a42cf570a8c395c2e5d8a77b892146188828.jpg",
+      "duration": "0:25",
+      "pubdate": 1792415266,
+      "play": 5848
+    },
     {
       "bvid": "BV1ULnJ6xE83",
       "title": "INSIDE CITY 530 | 国际比赛日结束众将回归后的城里动态，对阵利物浦和巴黎比赛的台前幕后",
@@ -9,7 +19,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/1a5ee068ce15c9c182ba9ff4dcb2a79854c9be91.jpg",
       "duration": "21:23",
       "pubdate": 1792407516,
-      "play": 5478
+      "play": 5535
     },
     {
       "bvid": "BV1Z4nV69EMf",
@@ -19,17 +29,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1b72c35f35802efb9bb358bf095b3f0ed49f5573.jpg",
       "duration": "10:48",
       "pubdate": 1792339070,
-      "play": 14151
-    },
-    {
-      "bvid": "BV1oCng6LEof",
-      "title": "城民饭点 | 曼城3-2伊普斯维奇集锦：福登建功，哈宝双响，我城主场战胜伊普斯维奇拿下联赛7连胜",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i1.hdslb.com/bfs/archive/b8841c3d01998d6526b1f5d285b46f6fa6317d51.jpg",
-      "duration": "8:59",
-      "pubdate": 1792295651,
-      "play": 11634
+      "play": 14248
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -39,7 +39,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
       "duration": "9:47",
       "pubdate": 1792294987,
-      "play": 8868
+      "play": 8879
     },
     {
       "bvid": "BV15PnM6NExx",
@@ -49,7 +49,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/7df4d333ab61901b078f4fbabe150537bb98e3ac.jpg",
       "duration": "5:37",
       "pubdate": 1792293340,
-      "play": 2119
+      "play": 2129
     },
     {
       "bvid": "BV12dJa6XEjq",
@@ -59,7 +59,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/6961f5e4195f308a37e49b0f88ba8947daa4e976.jpg",
       "duration": "10:58",
       "pubdate": 1792205219,
-      "play": 8401
+      "play": 8405
     },
     {
       "bvid": "BV1cDJy61Ej7",
@@ -69,17 +69,17 @@
       "pic": "https://i1.hdslb.com/bfs/archive/3138899fe15a6d7b86606793820a4d5739b5a1cf.jpg",
       "duration": "12:58",
       "pubdate": 1792054356,
-      "play": 18266
+      "play": 18277
     },
     {
-      "bvid": "BV1tip96oEMm",
-      "title": "曼城的“香蕉文化”",
+      "bvid": "BV1irXABiEgK",
+      "title": "第一视角：曼城球迷vs阿森纳球迷",
       "author": "缪可言Sean",
       "creator": "miao",
-      "pic": "https://i1.hdslb.com/bfs/archive/1a78c5e65909e4b1d4deff4f05c7b14c0beca8b5.jpg",
-      "duration": "0:51",
-      "pubdate": 1791795463,
-      "play": 4836
+      "pic": "https://i2.hdslb.com/bfs/archive/a4187aa281e47187a1b1ed145b885290c0b42f75.jpg",
+      "duration": "2:50",
+      "pubdate": 1774309311,
+      "play": 107312
     }
   ]
 }
