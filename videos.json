@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-19T23:38:52.314Z",
+  "generatedAt": "2026-10-20T00:07:04.405Z",
   "videos": [
+    {
+      "bvid": "BV16bJR66ExH",
+      "title": "🤩✨曼城太子回来了！",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i0.hdslb.com/bfs/archive/b142a42cf570a8c395c2e5d8a77b892146188828.jpg",
+      "duration": "0:25",
+      "pubdate": 1792415266,
+      "play": 5210
+    },
     {
       "bvid": "BV1ULnJ6xE83",
       "title": "INSIDE CITY 530 | 国际比赛日结束众将回归后的城里动态，对阵利物浦和巴黎比赛的台前幕后",
@@ -9,7 +19,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/1a5ee068ce15c9c182ba9ff4dcb2a79854c9be91.jpg",
       "duration": "21:23",
       "pubdate": 1792407516,
-      "play": 5232
+      "play": 5271
     },
     {
       "bvid": "BV1Z4nV69EMf",
@@ -19,17 +29,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1b72c35f35802efb9bb358bf095b3f0ed49f5573.jpg",
       "duration": "10:48",
       "pubdate": 1792339070,
-      "play": 13650
-    },
-    {
-      "bvid": "BV1oCng6LEof",
-      "title": "城民饭点 | 曼城3-2伊普斯维奇集锦：福登建功，哈宝双响，我城主场战胜伊普斯维奇拿下联赛7连胜",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i1.hdslb.com/bfs/archive/b8841c3d01998d6526b1f5d285b46f6fa6317d51.jpg",
-      "duration": "8:59",
-      "pubdate": 1792295651,
-      "play": 11570
+      "play": 13754
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -39,17 +39,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
       "duration": "9:47",
       "pubdate": 1792294987,
-      "play": 8814
-    },
-    {
-      "bvid": "BV15PnM6NExx",
-      "title": "英超七连胜！曼城3:2伊镇代价不小！",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i0.hdslb.com/bfs/archive/7df4d333ab61901b078f4fbabe150537bb98e3ac.jpg",
-      "duration": "5:37",
-      "pubdate": 1792293340,
-      "play": 2111
+      "play": 8824
     },
     {
       "bvid": "BV12dJa6XEjq",
@@ -59,7 +49,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/6961f5e4195f308a37e49b0f88ba8947daa4e976.jpg",
       "duration": "10:58",
       "pubdate": 1792205219,
-      "play": 8383
+      "play": 8384
     },
     {
       "bvid": "BV1cDJy61Ej7",
@@ -69,17 +59,27 @@
       "pic": "https://i1.hdslb.com/bfs/archive/3138899fe15a6d7b86606793820a4d5739b5a1cf.jpg",
       "duration": "12:58",
       "pubdate": 1792054356,
-      "play": 18235
+      "play": 18240
     },
     {
-      "bvid": "BV1tip96oEMm",
-      "title": "曼城的“香蕉文化”",
+      "bvid": "BV1FDJy61E5B",
+      "title": "沉浸式在曼城举TIFO",
       "author": "缪可言Sean",
       "creator": "miao",
-      "pic": "https://i1.hdslb.com/bfs/archive/1a78c5e65909e4b1d4deff4f05c7b14c0beca8b5.jpg",
-      "duration": "0:51",
-      "pubdate": 1791795463,
-      "play": 4833
+      "pic": "https://i1.hdslb.com/bfs/archive/c3e4f5ff31449550a16c4c04d45e167eba2cf709.jpg",
+      "duration": "1:6",
+      "pubdate": 1792053964,
+      "play": 2687
+    },
+    {
+      "bvid": "BV1ZWfpB3Ez1",
+      "title": "曼城球员开的最多的车居然是……",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i0.hdslb.com/bfs/archive/2fc3475f35452672ce7dfa70fa3fe394c5f4ee52.jpg",
+      "duration": "0:59",
+      "pubdate": 1771975059,
+      "play": 20656
     }
   ]
 }
