@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T11:59:22.092Z",
+  "generatedAt": "2026-10-20T12:42:09.878Z",
   "videos": [
     {
       "bvid": "BV1KPnF6AEvJ",
@@ -9,7 +9,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/a13f0e16947428bc757a7a43b2e32d04531ddcc5.jpg",
       "duration": "18:43",
       "pubdate": 1792468631,
-      "play": 5485
+      "play": 5664
     },
     {
       "bvid": "BV1ULnJ6xE83",
@@ -19,7 +19,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/1a5ee068ce15c9c182ba9ff4dcb2a79854c9be91.jpg",
       "duration": "21:23",
       "pubdate": 1792407516,
-      "play": 6400
+      "play": 6450
     },
     {
       "bvid": "BV1Z4nV69EMf",
@@ -29,7 +29,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1b72c35f35802efb9bb358bf095b3f0ed49f5573.jpg",
       "duration": "10:48",
       "pubdate": 1792339070,
-      "play": 16274
+      "play": 16361
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -39,17 +39,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
       "duration": "9:47",
       "pubdate": 1792294987,
-      "play": 9031
-    },
-    {
-      "bvid": "BV15PnM6NExx",
-      "title": "英超七连胜！曼城3:2伊镇代价不小！",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i0.hdslb.com/bfs/archive/7df4d333ab61901b078f4fbabe150537bb98e3ac.jpg",
-      "duration": "5:37",
-      "pubdate": 1792293340,
-      "play": 2162
+      "play": 9044
     },
     {
       "bvid": "BV12dJa6XEjq",
@@ -59,17 +49,27 @@
       "pic": "https://i2.hdslb.com/bfs/archive/6961f5e4195f308a37e49b0f88ba8947daa4e976.jpg",
       "duration": "10:58",
       "pubdate": 1792205219,
-      "play": 8603
+      "play": 8625
     },
     {
-      "bvid": "BV1tip96oEMm",
-      "title": "曼城的“香蕉文化”",
+      "bvid": "BV1irXABiEgK",
+      "title": "第一视角：曼城球迷vs阿森纳球迷",
       "author": "缪可言Sean",
       "creator": "miao",
-      "pic": "https://i1.hdslb.com/bfs/archive/1a78c5e65909e4b1d4deff4f05c7b14c0beca8b5.jpg",
-      "duration": "0:51",
-      "pubdate": 1791795463,
-      "play": 4866
+      "pic": "https://i2.hdslb.com/bfs/archive/a4187aa281e47187a1b1ed145b885290c0b42f75.jpg",
+      "duration": "2:50",
+      "pubdate": 1774309311,
+      "play": 107314
+    },
+    {
+      "bvid": "BV1RDEozJE1U",
+      "title": "曼城退出维尔茨竞争！究竟是好是坏？",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i1.hdslb.com/bfs/archive/daabc2f6a502969cecfe364fbd3f3221faf40e69.jpg",
+      "duration": "1:18",
+      "pubdate": 1747696832,
+      "play": 9093
     },
     {
       "bvid": "BV1f71ZY1E3a",
