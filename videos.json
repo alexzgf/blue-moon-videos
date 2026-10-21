@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T14:51:15.673Z",
+  "generatedAt": "2026-10-21T15:24:10.877Z",
   "videos": [
     {
       "bvid": "BV1kPnz6vEcc",
@@ -9,7 +9,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/a175c2eba38683287405cf7d954cf3200265613d.jpg",
       "duration": "0:14",
       "pubdate": 1792579447,
-      "play": 4909
+      "play": 5310
     },
     {
       "bvid": "BV1kAnz6KE1j",
@@ -19,7 +19,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/3cf7a32a1f3404b603c311b5bc4cde7c153cf558.jpg",
       "duration": "4:20",
       "pubdate": 1792579026,
-      "play": 1021
+      "play": 1050
     },
     {
       "bvid": "BV1e9nv61EtB",
@@ -29,17 +29,17 @@
       "pic": "https://i1.hdslb.com/bfs/archive/0454be4e9b544d91737392bb9d5b97b48a876851.jpg",
       "duration": "0:43",
       "pubdate": 1792545577,
-      "play": 4134
+      "play": 4235
     },
     {
-      "bvid": "BV16wnA6cEa5",
-      "title": "他是曼城的欧冠队史射手王 ，他是独一无二的哈兰德🩵",
+      "bvid": "BV1KPnF6AEvJ",
+      "title": "曼城队史欧冠射手王是怎样炼成？！哈宝：请看VCR",
       "author": "曼城足球俱乐部",
       "creator": "official",
-      "pic": "https://i0.hdslb.com/bfs/archive/5f04be86918dbb424888376936fd64227992ee0b.jpg",
-      "duration": "0:54",
-      "pubdate": 1792504960,
-      "play": 6383
+      "pic": "https://i2.hdslb.com/bfs/archive/a13f0e16947428bc757a7a43b2e32d04531ddcc5.jpg",
+      "duration": "18:43",
+      "pubdate": 1792468631,
+      "play": 9242
     },
     {
       "bvid": "BV1Z4nV69EMf",
@@ -49,7 +49,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1b72c35f35802efb9bb358bf095b3f0ed49f5573.jpg",
       "duration": "10:48",
       "pubdate": 1792339070,
-      "play": 17366
+      "play": 17402
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -59,7 +59,17 @@
       "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
       "duration": "9:47",
       "pubdate": 1792294987,
-      "play": 9394
+      "play": 9402
+    },
+    {
+      "bvid": "BV12dJa6XEjq",
+      "title": "曼城2-4不敌巴黎！脸都不要了？",
+      "author": "牛奶MiIk",
+      "creator": "milk",
+      "pic": "https://i2.hdslb.com/bfs/archive/6961f5e4195f308a37e49b0f88ba8947daa4e976.jpg",
+      "duration": "10:58",
+      "pubdate": 1792205219,
+      "play": 9671
     },
     {
       "bvid": "BV1cDJy61Ej7",
@@ -69,7 +79,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/3138899fe15a6d7b86606793820a4d5739b5a1cf.jpg",
       "duration": "12:58",
       "pubdate": 1792054356,
-      "play": 18773
+      "play": 18775
     }
   ]
 }
