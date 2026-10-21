@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-10-21T12:38:50.588Z",
+  "generatedAt": "2026-10-21T13:24:57.239Z",
   "videos": [
     {
-      "bvid": "BV1kAnz6KE1j",
-      "title": "福登戴帽！曼城5:1大胜雅典AEK！",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i2.hdslb.com/bfs/archive/3cf7a32a1f3404b603c311b5bc4cde7c153cf558.jpg",
-      "duration": "4:20",
-      "pubdate": 1792579026,
-      "play": 755
-    },
-    {
-      "bvid": "BV1e9nv61EtB",
-      "title": "曼城“嘉豪”这次爽了",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i1.hdslb.com/bfs/archive/0454be4e9b544d91737392bb9d5b97b48a876851.jpg",
-      "duration": "0:43",
-      "pubdate": 1792545577,
-      "play": 3651
+      "bvid": "BV1kPnz6vEcc",
+      "title": "这球我也就看了一百遍吧",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i0.hdslb.com/bfs/archive/a175c2eba38683287405cf7d954cf3200265613d.jpg",
+      "duration": "0:14",
+      "pubdate": 1792579447,
+      "play": 3890
     },
     {
       "bvid": "BV16wnA6cEa5",
@@ -29,17 +19,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/5f04be86918dbb424888376936fd64227992ee0b.jpg",
       "duration": "0:54",
       "pubdate": 1792504960,
-      "play": 6243
-    },
-    {
-      "bvid": "BV1KPnF6AEvJ",
-      "title": "曼城队史欧冠射手王是怎样炼成？！哈宝：请看VCR",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i2.hdslb.com/bfs/archive/a13f0e16947428bc757a7a43b2e32d04531ddcc5.jpg",
-      "duration": "18:43",
-      "pubdate": 1792468631,
-      "play": 8762
+      "play": 6290
     },
     {
       "bvid": "BV1Z4nV69EMf",
@@ -49,7 +29,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1b72c35f35802efb9bb358bf095b3f0ed49f5573.jpg",
       "duration": "10:48",
       "pubdate": 1792339070,
-      "play": 17261
+      "play": 17284
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -59,17 +39,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
       "duration": "9:47",
       "pubdate": 1792294987,
-      "play": 9368
-    },
-    {
-      "bvid": "BV12dJa6XEjq",
-      "title": "曼城2-4不敌巴黎！脸都不要了？",
-      "author": "牛奶MiIk",
-      "creator": "milk",
-      "pic": "https://i2.hdslb.com/bfs/archive/6961f5e4195f308a37e49b0f88ba8947daa4e976.jpg",
-      "duration": "10:58",
-      "pubdate": 1792205219,
-      "play": 9625
+      "play": 9378
     },
     {
       "bvid": "BV1cDJy61Ej7",
@@ -80,6 +50,26 @@
       "duration": "12:58",
       "pubdate": 1792054356,
       "play": 18763
+    },
+    {
+      "bvid": "BV1GLMw6JEfR",
+      "title": "曼城集市大采购！我居然买了一箱衣服！？",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i2.hdslb.com/bfs/archive/ee029ca836ea9a1ffe9ed0235b00184279cfaf6d.jpg",
+      "duration": "2:5",
+      "pubdate": 1783167517,
+      "play": 7050
+    },
+    {
+      "bvid": "BV1NZLt6wEJV",
+      "title": "曼城26-27赛季球衣上身！你打多少分！？",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i0.hdslb.com/bfs/archive/cf1ca67a1b7eaa56d598d373e9d8470b00694294.jpg",
+      "duration": "1:20",
+      "pubdate": 1779364071,
+      "play": 6043
     }
   ]
 }
