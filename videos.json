@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T06:32:04.656Z",
+  "generatedAt": "2026-10-21T07:24:17.430Z",
   "videos": [
     {
       "bvid": "BV1e9nv61EtB",
@@ -9,7 +9,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/0454be4e9b544d91737392bb9d5b97b48a876851.jpg",
       "duration": "0:43",
       "pubdate": 1792545577,
-      "play": 1926
+      "play": 2092
     },
     {
       "bvid": "BV16wnA6cEa5",
@@ -19,7 +19,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/5f04be86918dbb424888376936fd64227992ee0b.jpg",
       "duration": "0:54",
       "pubdate": 1792504960,
-      "play": 5903
+      "play": 5944
     },
     {
       "bvid": "BV1KPnF6AEvJ",
@@ -29,7 +29,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/a13f0e16947428bc757a7a43b2e32d04531ddcc5.jpg",
       "duration": "18:43",
       "pubdate": 1792468631,
-      "play": 8102
+      "play": 8171
     },
     {
       "bvid": "BV1Z4nV69EMf",
@@ -39,7 +39,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1b72c35f35802efb9bb358bf095b3f0ed49f5573.jpg",
       "duration": "10:48",
       "pubdate": 1792339070,
-      "play": 17118
+      "play": 17130
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -49,7 +49,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
       "duration": "9:47",
       "pubdate": 1792294987,
-      "play": 9290
+      "play": 9296
     },
     {
       "bvid": "BV1cDJy61Ej7",
@@ -59,7 +59,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/3138899fe15a6d7b86606793820a4d5739b5a1cf.jpg",
       "duration": "12:58",
       "pubdate": 1792054356,
-      "play": 18713
+      "play": 18730
     },
     {
       "bvid": "BV1RSpo6yENa",
@@ -69,17 +69,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/a8045f01c4d705a63bb79ee932931cabbbdb79e1.jpg",
       "duration": "10:3",
       "pubdate": 1791857640,
-      "play": 19717
-    },
-    {
-      "bvid": "BV1tip96oEMm",
-      "title": "曼城的“香蕉文化”",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i1.hdslb.com/bfs/archive/1a78c5e65909e4b1d4deff4f05c7b14c0beca8b5.jpg",
-      "duration": "0:51",
-      "pubdate": 1791795463,
-      "play": 4896
+      "play": 19718
     }
   ]
 }
