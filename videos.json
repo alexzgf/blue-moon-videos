@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-21T11:17:28.897Z",
+  "generatedAt": "2026-10-21T11:56:43.107Z",
   "videos": [
+    {
+      "bvid": "BV1kPnz6vEcc",
+      "title": "这球我也就看了一百遍吧",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i0.hdslb.com/bfs/archive/a175c2eba38683287405cf7d954cf3200265613d.jpg",
+      "duration": "0:14",
+      "pubdate": 1792579447,
+      "play": 2799
+    },
     {
       "bvid": "BV1kAnz6KE1j",
       "title": "福登戴帽！曼城5:1大胜雅典AEK！",
@@ -9,7 +19,17 @@
       "pic": "https://i2.hdslb.com/bfs/archive/3cf7a32a1f3404b603c311b5bc4cde7c153cf558.jpg",
       "duration": "4:20",
       "pubdate": 1792579026,
-      "play": 442
+      "play": 620
+    },
+    {
+      "bvid": "BV1e9nv61EtB",
+      "title": "曼城“嘉豪”这次爽了",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i1.hdslb.com/bfs/archive/0454be4e9b544d91737392bb9d5b97b48a876851.jpg",
+      "duration": "0:43",
+      "pubdate": 1792545577,
+      "play": 3491
     },
     {
       "bvid": "BV16wnA6cEa5",
@@ -19,17 +39,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/5f04be86918dbb424888376936fd64227992ee0b.jpg",
       "duration": "0:54",
       "pubdate": 1792504960,
-      "play": 6166
-    },
-    {
-      "bvid": "BV1KPnF6AEvJ",
-      "title": "曼城队史欧冠射手王是怎样炼成？！哈宝：请看VCR",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i2.hdslb.com/bfs/archive/a13f0e16947428bc757a7a43b2e32d04531ddcc5.jpg",
-      "duration": "18:43",
-      "pubdate": 1792468631,
-      "play": 8574
+      "play": 6207
     },
     {
       "bvid": "BV1Z4nV69EMf",
@@ -39,7 +49,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1b72c35f35802efb9bb358bf095b3f0ed49f5573.jpg",
       "duration": "10:48",
       "pubdate": 1792339070,
-      "play": 17226
+      "play": 17241
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -49,7 +59,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
       "duration": "9:47",
       "pubdate": 1792294987,
-      "play": 9350
+      "play": 9357
     },
     {
       "bvid": "BV12dJa6XEjq",
@@ -59,7 +69,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/6961f5e4195f308a37e49b0f88ba8947daa4e976.jpg",
       "duration": "10:58",
       "pubdate": 1792205219,
-      "play": 9559
+      "play": 9599
     },
     {
       "bvid": "BV1cDJy61Ej7",
@@ -69,17 +79,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/3138899fe15a6d7b86606793820a4d5739b5a1cf.jpg",
       "duration": "12:58",
       "pubdate": 1792054356,
-      "play": 18756
-    },
-    {
-      "bvid": "BV1RDEozJE1U",
-      "title": "曼城退出维尔茨竞争！究竟是好是坏？",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i1.hdslb.com/bfs/archive/daabc2f6a502969cecfe364fbd3f3221faf40e69.jpg",
-      "duration": "1:18",
-      "pubdate": 1747696832,
-      "play": 9095
+      "play": 18760
     }
   ]
 }
