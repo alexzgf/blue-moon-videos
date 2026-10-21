@@ -1,25 +1,45 @@
 {
-  "generatedAt": "2026-10-21T17:53:38.444Z",
+  "generatedAt": "2026-10-21T18:27:50.420Z",
   "videos": [
     {
-      "bvid": "BV12Zn667E44",
-      "title": "曼城5-1雅典AEK！脱胎换骨？故人如故！",
-      "author": "牛奶MiIk",
-      "creator": "milk",
-      "pic": "https://i1.hdslb.com/bfs/archive/081e50f7fe446b04e08d8202898ab98a4906356c.jpg",
-      "duration": "7:5",
-      "pubdate": 1792596813,
-      "play": 1911
+      "bvid": "BV1kPnz6vEcc",
+      "title": "这球我也就看了一百遍吧",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i0.hdslb.com/bfs/archive/a175c2eba38683287405cf7d954cf3200265613d.jpg",
+      "duration": "0:14",
+      "pubdate": 1792579447,
+      "play": 6379
     },
     {
-      "bvid": "BV1Z4nV69EMf",
-      "title": "曼城3-2惨胜伊镇！什么叫749城？",
-      "author": "牛奶MiIk",
-      "creator": "milk",
-      "pic": "https://i0.hdslb.com/bfs/archive/1b72c35f35802efb9bb358bf095b3f0ed49f5573.jpg",
-      "duration": "10:48",
-      "pubdate": 1792339070,
-      "play": 17481
+      "bvid": "BV1kAnz6KE1j",
+      "title": "福登戴帽！曼城5:1大胜雅典AEK！",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i2.hdslb.com/bfs/archive/3cf7a32a1f3404b603c311b5bc4cde7c153cf558.jpg",
+      "duration": "4:20",
+      "pubdate": 1792579026,
+      "play": 1131
+    },
+    {
+      "bvid": "BV1e9nv61EtB",
+      "title": "曼城“嘉豪”这次爽了",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i1.hdslb.com/bfs/archive/0454be4e9b544d91737392bb9d5b97b48a876851.jpg",
+      "duration": "0:43",
+      "pubdate": 1792545577,
+      "play": 4430
+    },
+    {
+      "bvid": "BV1KPnF6AEvJ",
+      "title": "曼城队史欧冠射手王是怎样炼成？！哈宝：请看VCR",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i2.hdslb.com/bfs/archive/a13f0e16947428bc757a7a43b2e32d04531ddcc5.jpg",
+      "duration": "18:43",
+      "pubdate": 1792468631,
+      "play": 9531
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -29,7 +49,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
       "duration": "9:47",
       "pubdate": 1792294987,
-      "play": 9415
+      "play": 9416
     },
     {
       "bvid": "BV1cDJy61Ej7",
@@ -39,27 +59,17 @@
       "pic": "https://i1.hdslb.com/bfs/archive/3138899fe15a6d7b86606793820a4d5739b5a1cf.jpg",
       "duration": "12:58",
       "pubdate": 1792054356,
-      "play": 18785
+      "play": 18786
     },
     {
-      "bvid": "BV1GLMw6JEfR",
-      "title": "曼城集市大采购！我居然买了一箱衣服！？",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i2.hdslb.com/bfs/archive/ee029ca836ea9a1ffe9ed0235b00184279cfaf6d.jpg",
-      "duration": "2:5",
-      "pubdate": 1783167517,
-      "play": 7053
-    },
-    {
-      "bvid": "BV1irXABiEgK",
-      "title": "第一视角：曼城球迷vs阿森纳球迷",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i2.hdslb.com/bfs/archive/a4187aa281e47187a1b1ed145b885290c0b42f75.jpg",
-      "duration": "2:50",
-      "pubdate": 1774309311,
-      "play": 107326
+      "bvid": "BV1RSpo6yENa",
+      "title": "曼城3-0完胜利物浦！老霸道了！",
+      "author": "牛奶MiIk",
+      "creator": "milk",
+      "pic": "https://i2.hdslb.com/bfs/archive/a8045f01c4d705a63bb79ee932931cabbbdb79e1.jpg",
+      "duration": "10:3",
+      "pubdate": 1791857640,
+      "play": 19746
     }
   ]
 }
