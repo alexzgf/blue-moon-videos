@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T20:04:07.514Z",
+  "generatedAt": "2026-10-23T20:39:00.837Z",
   "videos": [
     {
       "bvid": "BV1Qyn46SE8s",
@@ -9,27 +9,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/3e414e99c467519c05dc4aa13103d702a15b8bbf.jpg",
       "duration": "1:22",
       "pubdate": 1792725694,
-      "play": 10729
-    },
-    {
-      "bvid": "BV1yQn16oEQv",
-      "title": "🇧🇷桑巴式的突进过人，阿兰边路一条龙无人能挡",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i1.hdslb.com/bfs/archive/49ea9abbc89479bdcfbc7e11587a37e9d1baf5a6.jpg",
-      "duration": "0:15",
-      "pubdate": 1792645703,
-      "play": 20151
-    },
-    {
-      "bvid": "BV1kAnz6KE1j",
-      "title": "福登戴帽！曼城5:1大胜雅典AEK！",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i2.hdslb.com/bfs/archive/3cf7a32a1f3404b603c311b5bc4cde7c153cf558.jpg",
-      "duration": "4:20",
-      "pubdate": 1792579026,
-      "play": 1470
+      "play": 10776
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -50,6 +30,26 @@
       "duration": "0:51",
       "pubdate": 1791795463,
       "play": 5003
+    },
+    {
+      "bvid": "BV1c1tj6REy1",
+      "title": "【官宣】恩佐加盟曼城",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i2.hdslb.com/bfs/archive/6092e567f1c03ef6b691d7e0a34653da3fe41416.jpg",
+      "duration": "0:55",
+      "pubdate": 1788303812,
+      "play": 559031
+    },
+    {
+      "bvid": "BV1irXABiEgK",
+      "title": "第一视角：曼城球迷vs阿森纳球迷",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i2.hdslb.com/bfs/archive/a4187aa281e47187a1b1ed145b885290c0b42f75.jpg",
+      "duration": "2:50",
+      "pubdate": 1774309311,
+      "play": 107343
     }
   ]
 }
