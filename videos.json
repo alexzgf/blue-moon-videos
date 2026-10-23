@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-23T05:10:18.827Z",
+  "generatedAt": "2026-10-23T05:47:24.283Z",
   "videos": [
+    {
+      "bvid": "BV1Qyn46SE8s",
+      "title": "谢尔基，特聒噪一法国孩子😆",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i2.hdslb.com/bfs/archive/3e414e99c467519c05dc4aa13103d702a15b8bbf.jpg",
+      "duration": "1:22",
+      "pubdate": 1792725694,
+      "play": 4555
+    },
     {
       "bvid": "BV167np6QEf4",
       "title": "🪄注意看，大师的表演要开始了",
@@ -9,7 +19,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/dad1b22e7fb6801964abb0a1daac6f5e8adcf6f2.jpg",
       "duration": "0:22",
       "pubdate": 1792675002,
-      "play": 4659
+      "play": 4709
     },
     {
       "bvid": "BV12Zn667E44",
@@ -19,7 +29,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/081e50f7fe446b04e08d8202898ab98a4906356c.jpg",
       "duration": "7:5",
       "pubdate": 1792596813,
-      "play": 5065
+      "play": 5091
     },
     {
       "bvid": "BV1kAnz6KE1j",
@@ -29,17 +39,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/3cf7a32a1f3404b603c311b5bc4cde7c153cf558.jpg",
       "duration": "4:20",
       "pubdate": 1792579026,
-      "play": 1392
-    },
-    {
-      "bvid": "BV1ULnJ6xE83",
-      "title": "INSIDE CITY 530 | 国际比赛日结束众将回归后的城里动态，对阵利物浦和巴黎比赛的台前幕后",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i2.hdslb.com/bfs/archive/1a5ee068ce15c9c182ba9ff4dcb2a79854c9be91.jpg",
-      "duration": "21:23",
-      "pubdate": 1792407516,
-      "play": 7631
+      "play": 1396
     },
     {
       "bvid": "BV1Z4nV69EMf",
@@ -49,7 +49,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1b72c35f35802efb9bb358bf095b3f0ed49f5573.jpg",
       "duration": "10:48",
       "pubdate": 1792339070,
-      "play": 17917
+      "play": 17928
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -59,7 +59,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
       "duration": "9:47",
       "pubdate": 1792294987,
-      "play": 9544
+      "play": 9547
     },
     {
       "bvid": "BV1tip96oEMm",
@@ -69,7 +69,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/1a78c5e65909e4b1d4deff4f05c7b14c0beca8b5.jpg",
       "duration": "0:51",
       "pubdate": 1791795463,
-      "play": 4986
+      "play": 4988
     }
   ]
 }
