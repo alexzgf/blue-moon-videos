@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-24T09:08:58.739Z",
+  "generatedAt": "2026-10-24T09:44:34.647Z",
   "videos": [
+    {
+      "bvid": "BV1g9HA6JEAh",
+      "title": "城民饭点 | 欧冠曼城5-1雅典AEK集锦：福登三球一助，刘易斯献两助，安德森和谢尔基建功。",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i2.hdslb.com/bfs/archive/159447bfbd540368a6b0a225c390258fe5bce661.jpg",
+      "duration": "2:17",
+      "pubdate": 1792832529,
+      "play": 1813
+    },
     {
       "bvid": "BV1Qyn46SE8s",
       "title": "谢尔基，特聒噪一法国孩子😆",
@@ -9,17 +19,27 @@
       "pic": "https://i2.hdslb.com/bfs/archive/3e414e99c467519c05dc4aa13103d702a15b8bbf.jpg",
       "duration": "1:22",
       "pubdate": 1792725694,
-      "play": 13191
+      "play": 13277
     },
     {
-      "bvid": "BV1KEJe6oEAn",
-      "title": "这是我们新来的大腰子，看看有力气不？",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i0.hdslb.com/bfs/archive/d88e5188b5ce8a568d19a13b9cf711671c444ac7.jpg",
-      "duration": "0:16",
-      "pubdate": 1792229141,
-      "play": 150220
+      "bvid": "BV1kAnz6KE1j",
+      "title": "福登戴帽！曼城5:1大胜雅典AEK！",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i2.hdslb.com/bfs/archive/3cf7a32a1f3404b603c311b5bc4cde7c153cf558.jpg",
+      "duration": "4:20",
+      "pubdate": 1792579026,
+      "play": 1522
+    },
+    {
+      "bvid": "BV17fnT6BEe9",
+      "title": "曼城 vs 伊镇｜哈兰德帽子戏法被吹｜福登破门｜惊天动地12分钟伤停补时｜马雷斯卡豪取英超开局7连胜",
+      "author": "小糖姐姐呀",
+      "creator": "sugar",
+      "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
+      "duration": "9:47",
+      "pubdate": 1792294987,
+      "play": 9625
     },
     {
       "bvid": "BV1tip96oEMm",
@@ -29,17 +49,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/1a78c5e65909e4b1d4deff4f05c7b14c0beca8b5.jpg",
       "duration": "0:51",
       "pubdate": 1791795463,
-      "play": 5032
-    },
-    {
-      "bvid": "BV1RDEozJE1U",
-      "title": "曼城退出维尔茨竞争！究竟是好是坏？",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i1.hdslb.com/bfs/archive/daabc2f6a502969cecfe364fbd3f3221faf40e69.jpg",
-      "duration": "1:18",
-      "pubdate": 1747696832,
-      "play": 9097
+      "play": 5034
     }
   ]
 }
