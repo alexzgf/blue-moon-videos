@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T06:07:00.801Z",
+  "generatedAt": "2026-10-24T06:49:51.237Z",
   "videos": [
     {
       "bvid": "BV1cmHw6vEfU",
@@ -9,27 +9,37 @@
       "pic": "https://i1.hdslb.com/bfs/archive/5246dc93694c0d392f65ec58fa917133a6ecd235.jpg",
       "duration": "0:10",
       "pubdate": 1792814829,
-      "play": 6169
+      "play": 7194
     },
     {
-      "bvid": "BV1Qyn46SE8s",
-      "title": "谢尔基，特聒噪一法国孩子😆",
+      "bvid": "BV12Zn667E44",
+      "title": "曼城5-1雅典AEK！脱胎换骨？故人如故！",
+      "author": "牛奶MiIk",
+      "creator": "milk",
+      "pic": "https://i1.hdslb.com/bfs/archive/081e50f7fe446b04e08d8202898ab98a4906356c.jpg",
+      "duration": "7:5",
+      "pubdate": 1792596813,
+      "play": 6159
+    },
+    {
+      "bvid": "BV1KPnF6AEvJ",
+      "title": "曼城队史欧冠射手王是怎样炼成？！哈宝：请看VCR",
       "author": "曼城足球俱乐部",
       "creator": "official",
-      "pic": "https://i2.hdslb.com/bfs/archive/3e414e99c467519c05dc4aa13103d702a15b8bbf.jpg",
-      "duration": "1:22",
-      "pubdate": 1792725694,
-      "play": 12683
+      "pic": "https://i2.hdslb.com/bfs/archive/a13f0e16947428bc757a7a43b2e32d04531ddcc5.jpg",
+      "duration": "18:43",
+      "pubdate": 1792468631,
+      "play": 11734
     },
     {
-      "bvid": "BV1kAnz6KE1j",
-      "title": "福登戴帽！曼城5:1大胜雅典AEK！",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i2.hdslb.com/bfs/archive/3cf7a32a1f3404b603c311b5bc4cde7c153cf558.jpg",
-      "duration": "4:20",
-      "pubdate": 1792579026,
-      "play": 1504
+      "bvid": "BV1Z4nV69EMf",
+      "title": "曼城3-2惨胜伊镇！什么叫749城？",
+      "author": "牛奶MiIk",
+      "creator": "milk",
+      "pic": "https://i0.hdslb.com/bfs/archive/1b72c35f35802efb9bb358bf095b3f0ed49f5573.jpg",
+      "duration": "10:48",
+      "pubdate": 1792339070,
+      "play": 18460
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -39,7 +49,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
       "duration": "9:47",
       "pubdate": 1792294987,
-      "play": 9614
+      "play": 9615
     },
     {
       "bvid": "BV1tip96oEMm",
@@ -49,7 +59,17 @@
       "pic": "https://i1.hdslb.com/bfs/archive/1a78c5e65909e4b1d4deff4f05c7b14c0beca8b5.jpg",
       "duration": "0:51",
       "pubdate": 1791795463,
-      "play": 5022
+      "play": 5024
+    },
+    {
+      "bvid": "BV1RDEozJE1U",
+      "title": "曼城退出维尔茨竞争！究竟是好是坏？",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i1.hdslb.com/bfs/archive/daabc2f6a502969cecfe364fbd3f3221faf40e69.jpg",
+      "duration": "1:18",
+      "pubdate": 1747696832,
+      "play": 9097
     }
   ]
 }
