@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T02:09:13.875Z",
+  "generatedAt": "2026-10-24T02:45:40.571Z",
   "videos": [
     {
       "bvid": "BV1Qyn46SE8s",
@@ -9,17 +9,17 @@
       "pic": "https://i2.hdslb.com/bfs/archive/3e414e99c467519c05dc4aa13103d702a15b8bbf.jpg",
       "duration": "1:22",
       "pubdate": 1792725694,
-      "play": 11547
+      "play": 11697
     },
     {
-      "bvid": "BV1Lun26LEoR",
-      "title": "轻巧一送，传球的优雅恩佐很懂",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i1.hdslb.com/bfs/archive/1267347d8e9740c1d899010fcc00cb1bae65b92c.jpg",
-      "duration": "0:15",
-      "pubdate": 1792639732,
-      "play": 53891
+      "bvid": "BV12Zn667E44",
+      "title": "曼城5-1雅典AEK！脱胎换骨？故人如故！",
+      "author": "牛奶MiIk",
+      "creator": "milk",
+      "pic": "https://i1.hdslb.com/bfs/archive/081e50f7fe446b04e08d8202898ab98a4906356c.jpg",
+      "duration": "7:5",
+      "pubdate": 1792596813,
+      "play": 5980
     },
     {
       "bvid": "BV1kAnz6KE1j",
@@ -29,7 +29,27 @@
       "pic": "https://i2.hdslb.com/bfs/archive/3cf7a32a1f3404b603c311b5bc4cde7c153cf558.jpg",
       "duration": "4:20",
       "pubdate": 1792579026,
-      "play": 1481
+      "play": 1485
+    },
+    {
+      "bvid": "BV1ULnJ6xE83",
+      "title": "INSIDE CITY 530 | 国际比赛日结束众将回归后的城里动态，对阵利物浦和巴黎比赛的台前幕后",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i2.hdslb.com/bfs/archive/1a5ee068ce15c9c182ba9ff4dcb2a79854c9be91.jpg",
+      "duration": "21:23",
+      "pubdate": 1792407516,
+      "play": 7943
+    },
+    {
+      "bvid": "BV1Z4nV69EMf",
+      "title": "曼城3-2惨胜伊镇！什么叫749城？",
+      "author": "牛奶MiIk",
+      "creator": "milk",
+      "pic": "https://i0.hdslb.com/bfs/archive/1b72c35f35802efb9bb358bf095b3f0ed49f5573.jpg",
+      "duration": "10:48",
+      "pubdate": 1792339070,
+      "play": 18348
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -39,17 +59,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
       "duration": "9:47",
       "pubdate": 1792294987,
-      "play": 9599
-    },
-    {
-      "bvid": "BV1cDJy61Ej7",
-      "title": "曼城vs大巴黎｜赛季首败但三球落后也没有认输! We will fight till the end ｜哈兰德两球难救主｜多纳鲁马扑点",
-      "author": "小糖姐姐呀",
-      "creator": "sugar",
-      "pic": "https://i1.hdslb.com/bfs/archive/3138899fe15a6d7b86606793820a4d5739b5a1cf.jpg",
-      "duration": "12:58",
-      "pubdate": 1792054356,
-      "play": 18890
+      "play": 9601
     },
     {
       "bvid": "BV1tip96oEMm",
@@ -60,6 +70,16 @@
       "duration": "0:51",
       "pubdate": 1791795463,
       "play": 5008
+    },
+    {
+      "bvid": "BV1f71ZY1E3a",
+      "title": "曼城vs富勒姆｜带娃和看球不可兼得｜科瓦契奇梅开二度｜多库世界波｜瓜迪奥拉我们想让留下!｜小糖的带娃初体验",
+      "author": "小糖姐姐呀",
+      "creator": "sugar",
+      "pic": "https://i0.hdslb.com/bfs/archive/b7b9055fc5e4826b23a4019fbbe3f68589979e70.jpg",
+      "duration": "8:24",
+      "pubdate": 1728169678,
+      "play": 32350
     }
   ]
 }
