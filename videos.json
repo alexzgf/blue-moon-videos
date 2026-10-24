@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:07:16.488Z",
+  "generatedAt": "2026-10-24T15:41:16.151Z",
   "videos": [
     {
       "bvid": "BV1g9HA6JEAh",
@@ -9,7 +9,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/159447bfbd540368a6b0a225c390258fe5bce661.jpg",
       "duration": "2:17",
       "pubdate": 1792832529,
-      "play": 3156
+      "play": 3187
     },
     {
       "bvid": "BV1Qyn46SE8s",
@@ -19,7 +19,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/3e414e99c467519c05dc4aa13103d702a15b8bbf.jpg",
       "duration": "1:22",
       "pubdate": 1792725694,
-      "play": 13692
+      "play": 13711
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -39,37 +39,27 @@
       "pic": "https://i1.hdslb.com/bfs/archive/3138899fe15a6d7b86606793820a4d5739b5a1cf.jpg",
       "duration": "12:58",
       "pubdate": 1792054356,
-      "play": 18917
+      "play": 18918
     },
     {
-      "bvid": "BV1NZLt6wEJV",
-      "title": "曼城26-27赛季球衣上身！你打多少分！？",
+      "bvid": "BV1tip96oEMm",
+      "title": "曼城的“香蕉文化”",
       "author": "缪可言Sean",
       "creator": "miao",
-      "pic": "https://i0.hdslb.com/bfs/archive/cf1ca67a1b7eaa56d598d373e9d8470b00694294.jpg",
-      "duration": "1:20",
-      "pubdate": 1779364071,
-      "play": 6067
+      "pic": "https://i1.hdslb.com/bfs/archive/1a78c5e65909e4b1d4deff4f05c7b14c0beca8b5.jpg",
+      "duration": "0:51",
+      "pubdate": 1791795463,
+      "play": 5051
     },
     {
-      "bvid": "BV1PBLS6sEva",
-      "title": "曼城1-1伯恩茅斯！光头离队全员梦游！牢哈孤身绝对领袖！",
-      "author": "牛奶MiIk",
-      "creator": "milk",
-      "pic": "https://i2.hdslb.com/bfs/archive/daf39fb2ca08dd93c3211fc347e015241b654185.jpg",
-      "duration": "8:50",
-      "pubdate": 1779293131,
-      "play": 43223
-    },
-    {
-      "bvid": "BV1ZWfpB3Ez1",
-      "title": "曼城球员开的最多的车居然是……",
+      "bvid": "BV1irXABiEgK",
+      "title": "第一视角：曼城球迷vs阿森纳球迷",
       "author": "缪可言Sean",
       "creator": "miao",
-      "pic": "https://i0.hdslb.com/bfs/archive/2fc3475f35452672ce7dfa70fa3fe394c5f4ee52.jpg",
-      "duration": "0:59",
-      "pubdate": 1771975059,
-      "play": 20659
+      "pic": "https://i2.hdslb.com/bfs/archive/a4187aa281e47187a1b1ed145b885290c0b42f75.jpg",
+      "duration": "2:50",
+      "pubdate": 1774309311,
+      "play": 107351
     }
   ]
 }
