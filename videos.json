@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-25T00:28:20.127Z",
+  "generatedAt": "2026-10-25T01:12:15.432Z",
   "videos": [
+    {
+      "bvid": "BV1xtHT69EeM",
+      "title": "曼城1比2维拉赛后复盘，我在你身上看到了他的影子",
+      "author": "战术睡衣",
+      "creator": "pajama",
+      "pic": "https://i0.hdslb.com/bfs/archive/cd33ebc4597607cf165eba055925cc53fff8fc25.jpg",
+      "duration": "10:4",
+      "pubdate": 1792862237,
+      "play": 36772
+    },
     {
       "bvid": "BV1MAHM6fEXV",
       "title": "睡衣哥谈曼城不合理的轮转",
@@ -9,17 +19,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/d4760c8ff2423cc28b893da4f119911b878178dd.jpg",
       "duration": "3:28",
       "pubdate": 1792859247,
-      "play": 461
-    },
-    {
-      "bvid": "BV1CGHM6XESj",
-      "title": "睡衣哥专注分析曼城比赛，被干脆面破功",
-      "author": "战术睡衣很矜持",
-      "creator": "pajama",
-      "pic": "https://i2.hdslb.com/bfs/archive/2702f769a23c4dc51d56bc61a6961e6adc84c929.jpg",
-      "duration": "0:57",
-      "pubdate": 1792858801,
-      "play": 126
+      "play": 492
     },
     {
       "bvid": "BV1g9HA6JEAh",
@@ -29,7 +29,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/159447bfbd540368a6b0a225c390258fe5bce661.jpg",
       "duration": "2:17",
       "pubdate": 1792832529,
-      "play": 3274
+      "play": 3281
     },
     {
       "bvid": "BV1Qyn46SE8s",
@@ -39,27 +39,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/3e414e99c467519c05dc4aa13103d702a15b8bbf.jpg",
       "duration": "1:22",
       "pubdate": 1792725694,
-      "play": 13777
-    },
-    {
-      "bvid": "BV1kAnz6KE1j",
-      "title": "福登戴帽！曼城5:1大胜雅典AEK！",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i2.hdslb.com/bfs/archive/3cf7a32a1f3404b603c311b5bc4cde7c153cf558.jpg",
-      "duration": "4:20",
-      "pubdate": 1792579026,
-      "play": 1537
-    },
-    {
-      "bvid": "BV1e9nv61EtB",
-      "title": "曼城“嘉豪”这次爽了",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i1.hdslb.com/bfs/archive/0454be4e9b544d91737392bb9d5b97b48a876851.jpg",
-      "duration": "0:43",
-      "pubdate": 1792545577,
-      "play": 5622
+      "play": 13784
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -70,6 +50,36 @@
       "duration": "9:47",
       "pubdate": 1792294987,
       "play": 9652
+    },
+    {
+      "bvid": "BV1tip96oEMm",
+      "title": "曼城的“香蕉文化”",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i1.hdslb.com/bfs/archive/1a78c5e65909e4b1d4deff4f05c7b14c0beca8b5.jpg",
+      "duration": "0:51",
+      "pubdate": 1791795463,
+      "play": 5056
+    },
+    {
+      "bvid": "BV1irXABiEgK",
+      "title": "第一视角：曼城球迷vs阿森纳球迷",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i2.hdslb.com/bfs/archive/a4187aa281e47187a1b1ed145b885290c0b42f75.jpg",
+      "duration": "2:50",
+      "pubdate": 1774309311,
+      "play": 107353
+    },
+    {
+      "bvid": "BV1bstbe4EZv",
+      "title": "哈兰德吃月饼幕后花絮｜曼城中秋拍摄幕后花絮",
+      "author": "小糖姐姐呀",
+      "creator": "sugar",
+      "pic": "https://i2.hdslb.com/bfs/archive/3d656389e63ee3bc09747926647ff1479bbfaa66.jpg",
+      "duration": "5:10",
+      "pubdate": 1726557830,
+      "play": 71091
     }
   ]
 }
