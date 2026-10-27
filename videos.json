@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:01:42.768Z",
+  "generatedAt": "2026-10-27T01:46:16.408Z",
   "videos": [
     {
       "bvid": "BV1mbnZ6cEfi",
@@ -19,7 +19,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/215dac8d526b8b6c10983316e50022f5d138f90c.jpg",
       "duration": "0:27",
       "pubdate": 1793009637,
-      "play": 984
+      "play": 1000
     },
     {
       "bvid": "BV1hpH36kEyo",
@@ -39,7 +39,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/cd33ebc4597607cf165eba055925cc53fff8fc25.jpg",
       "duration": "10:4",
       "pubdate": 1792862237,
-      "play": 108485
+      "play": 108669
     },
     {
       "bvid": "BV17fnT6BEe9",
@@ -59,7 +59,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/6092e567f1c03ef6b691d7e0a34653da3fe41416.jpg",
       "duration": "0:55",
       "pubdate": 1788303812,
-      "play": 560633
+      "play": 560657
     }
   ]
 }
