@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-10-29T03:24:17.127Z",
+  "generatedAt": "2026-10-29T04:17:47.084Z",
   "videos": [
+    {
+      "bvid": "BV1hgsd6gE6a",
+      "title": "城民饭点 | 曼城2-2（点球大战4-3）布莱顿集锦：科瓦契奇、雷斯建功，鲁利两度扑点，我城淘汰“海鸥”晋级联赛杯八强！",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i1.hdslb.com/bfs/archive/928b9f7485d1f654fb003777f620ee5f82566091.jpg",
+      "duration": "8:40",
+      "pubdate": 1793246400,
+      "play": 2571
+    },
+    {
+      "bvid": "BV1YMsd6rEc9",
+      "title": "沉浸式体验曼城vs布莱顿点球大战｜请勿外放并调低音量｜关爱健康保护耳膜",
+      "author": "小糖姐姐呀",
+      "creator": "sugar",
+      "pic": "https://i0.hdslb.com/bfs/archive/1e25fb4cee5db9b0712a248249a2f8a485d6e6ed.jpg",
+      "duration": "6:51",
+      "pubdate": 1793245051,
+      "play": 2182
+    },
     {
       "bvid": "BV1ZBxE6JE8W",
       "title": "听中文猜球员挑战高能来袭！蓝月传奇萨巴莱塔大秀中文听力🤩",
@@ -9,17 +29,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/d564a75ae1d2a2a1c9a32fb7ae9c09493a993c2c.jpg",
       "duration": "1:3",
       "pubdate": 1793183386,
-      "play": 7202
-    },
-    {
-      "bvid": "BV1MdxT6uERW",
-      "title": "路过帮谢尔基关下灯谢谢",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i1.hdslb.com/bfs/archive/9c6aa5ce96df93390f1d8cbe8c9d6da4ed71041c.jpg",
-      "duration": "0:11",
-      "pubdate": 1793093246,
-      "play": 14020
+      "play": 7618
     },
     {
       "bvid": "BV17cnd6kESE",
@@ -29,17 +39,17 @@
       "pic": "https://i0.hdslb.com/bfs/archive/215dac8d526b8b6c10983316e50022f5d138f90c.jpg",
       "duration": "0:27",
       "pubdate": 1793009637,
-      "play": 1238
+      "play": 1239
     },
     {
-      "bvid": "BV1f71ZY1E3a",
-      "title": "曼城vs富勒姆｜带娃和看球不可兼得｜科瓦契奇梅开二度｜多库世界波｜瓜迪奥拉我们想让留下!｜小糖的带娃初体验",
+      "bvid": "BV17fnT6BEe9",
+      "title": "曼城 vs 伊镇｜哈兰德帽子戏法被吹｜福登破门｜惊天动地12分钟伤停补时｜马雷斯卡豪取英超开局7连胜",
       "author": "小糖姐姐呀",
       "creator": "sugar",
-      "pic": "https://i0.hdslb.com/bfs/archive/b7b9055fc5e4826b23a4019fbbe3f68589979e70.jpg",
-      "duration": "8:24",
-      "pubdate": 1728169678,
-      "play": 32367
+      "pic": "https://i1.hdslb.com/bfs/archive/5daaa3c9f46ba458fe23dcce25e99f69cc736978.jpg",
+      "duration": "9:47",
+      "pubdate": 1792294987,
+      "play": 9841
     }
   ]
 }
