@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-10-30T17:58:55.676Z",
+  "generatedAt": "2026-10-30T18:46:05.072Z",
   "videos": [
-    {
-      "bvid": "BV18Txq6WEPU",
-      "title": "😤曼城的门将都这么有力气的吗？",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i2.hdslb.com/bfs/archive/08e511879046a1bc98a60f7746b5d2b8deabd220.jpg",
-      "duration": "0:18",
-      "pubdate": 1793364849,
-      "play": 3524
-    },
     {
       "bvid": "BV1A3sf6TE8f",
       "title": "曼城6-5点胜布莱顿！蓝白恐怖？逮捕许哥！",
@@ -19,7 +9,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/f901308340e0432a4ea386512dd72357b2f8da8e.jpg",
       "duration": "8:7",
       "pubdate": 1793276230,
-      "play": 9676
+      "play": 9709
     },
     {
       "bvid": "BV1hgsd6gE6a",
@@ -29,7 +19,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/928b9f7485d1f654fb003777f620ee5f82566091.jpg",
       "duration": "8:40",
       "pubdate": 1793246400,
-      "play": 35690
+      "play": 35735
     },
     {
       "bvid": "BV1YMsd6rEc9",
@@ -39,17 +29,17 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1e25fb4cee5db9b0712a248249a2f8a485d6e6ed.jpg",
       "duration": "6:51",
       "pubdate": 1793245051,
-      "play": 12533
+      "play": 12552
     },
     {
-      "bvid": "BV17cnd6kESE",
-      "title": "曼城球迷对115指控的回应",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i0.hdslb.com/bfs/archive/215dac8d526b8b6c10983316e50022f5d138f90c.jpg",
-      "duration": "0:27",
-      "pubdate": 1793009637,
-      "play": 1304
+      "bvid": "BV1ewsd61Ess",
+      "title": "👻万圣节还没来，可爱鬼先来了",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i0.hdslb.com/bfs/archive/dcc578772f2c80ad64d382436a99dd8e670a9aeb.jpg",
+      "duration": "0:14",
+      "pubdate": 1793241877,
+      "play": 16397
     },
     {
       "bvid": "BV18MnS6CEWw",
@@ -59,7 +49,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/a84fe045554c03ee04d0437cd8aae0c24f188e91.jpg",
       "duration": "11:36",
       "pubdate": 1792940748,
-      "play": 13031
+      "play": 13041
     },
     {
       "bvid": "BV1xtHT69EeM",
@@ -69,17 +59,27 @@
       "pic": "https://i0.hdslb.com/bfs/archive/cd33ebc4597607cf165eba055925cc53fff8fc25.jpg",
       "duration": "10:4",
       "pubdate": 1792862237,
-      "play": 117307
+      "play": 117334
     },
     {
-      "bvid": "BV1f71ZY1E3a",
-      "title": "曼城vs富勒姆｜带娃和看球不可兼得｜科瓦契奇梅开二度｜多库世界波｜瓜迪奥拉我们想让留下!｜小糖的带娃初体验",
-      "author": "小糖姐姐呀",
-      "creator": "sugar",
-      "pic": "https://i0.hdslb.com/bfs/archive/b7b9055fc5e4826b23a4019fbbe3f68589979e70.jpg",
-      "duration": "8:24",
-      "pubdate": 1728169678,
-      "play": 32377
+      "bvid": "BV1MZ4BzGEuw",
+      "title": "曼城的115项指控的结果可能如何？为了这起指控可能要花多少钱？",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i1.hdslb.com/bfs/archive/31cadc4fc0e7a265c62122cc6c1e7956902ff650.jpg",
+      "duration": "4:25",
+      "pubdate": 1760527492,
+      "play": 1319
+    },
+    {
+      "bvid": "BV1RDEozJE1U",
+      "title": "曼城退出维尔茨竞争！究竟是好是坏？",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i1.hdslb.com/bfs/archive/daabc2f6a502969cecfe364fbd3f3221faf40e69.jpg",
+      "duration": "1:18",
+      "pubdate": 1747696832,
+      "play": 9102
     }
   ]
 }
