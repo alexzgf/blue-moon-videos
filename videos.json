@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-30T15:34:30.985Z",
+  "generatedAt": "2026-10-30T16:27:19.916Z",
   "videos": [
+    {
+      "bvid": "BV18Txq6WEPU",
+      "title": "😤曼城的门将都这么有力气的吗？",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i2.hdslb.com/bfs/archive/08e511879046a1bc98a60f7746b5d2b8deabd220.jpg",
+      "duration": "0:18",
+      "pubdate": 1793364849,
+      "play": 3284
+    },
     {
       "bvid": "BV1hgsd6gE6a",
       "title": "城民饭点 | 曼城2-2（点球大战4-3）布莱顿集锦：科瓦契奇、雷斯建功，鲁利两度扑点，我城淘汰“海鸥”晋级联赛杯八强！",
@@ -9,7 +19,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/928b9f7485d1f654fb003777f620ee5f82566091.jpg",
       "duration": "8:40",
       "pubdate": 1793246400,
-      "play": 35333
+      "play": 35514
     },
     {
       "bvid": "BV1YMsd6rEc9",
@@ -19,17 +29,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1e25fb4cee5db9b0712a248249a2f8a485d6e6ed.jpg",
       "duration": "6:51",
       "pubdate": 1793245051,
-      "play": 12403
-    },
-    {
-      "bvid": "BV1ewsd61Ess",
-      "title": "👻万圣节还没来，可爱鬼先来了",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i0.hdslb.com/bfs/archive/dcc578772f2c80ad64d382436a99dd8e670a9aeb.jpg",
-      "duration": "0:14",
-      "pubdate": 1793241877,
-      "play": 16210
+      "play": 12459
     },
     {
       "bvid": "BV17cnd6kESE",
@@ -49,7 +49,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/a84fe045554c03ee04d0437cd8aae0c24f188e91.jpg",
       "duration": "11:36",
       "pubdate": 1792940748,
-      "play": 12977
+      "play": 12997
     },
     {
       "bvid": "BV1xtHT69EeM",
@@ -59,7 +59,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/cd33ebc4597607cf165eba055925cc53fff8fc25.jpg",
       "duration": "10:4",
       "pubdate": 1792862237,
-      "play": 117157
+      "play": 117215
     },
     {
       "bvid": "BV1f71ZY1E3a",
