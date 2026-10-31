@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-10-31T14:15:10.984Z",
+  "generatedAt": "2026-10-31T14:54:48.172Z",
   "videos": [
-    {
-      "bvid": "BV1HVxk6REpY",
-      "title": "一周内再战布莱顿，今夜我们再赢一次！",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i2.hdslb.com/bfs/archive/4c43844deef5e1d542dba6cebb26f9972547723c.jpg",
-      "duration": "0:33",
-      "pubdate": 1793415797,
-      "play": 5623
-    },
     {
       "bvid": "BV1Y4x66TEmD",
       "title": "曼城布莱顿英超前瞻",
@@ -19,7 +9,17 @@
       "pic": "https://i2.hdslb.com/bfs/archive/d624bcae334b0eff2a99ae7daf7223fe25bbf233.jpg",
       "duration": "1:37",
       "pubdate": 1793399879,
-      "play": 1320
+      "play": 1332
+    },
+    {
+      "bvid": "BV18Txq6WEPU",
+      "title": "😤曼城的门将都这么有力气的吗？",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i2.hdslb.com/bfs/archive/08e511879046a1bc98a60f7746b5d2b8deabd220.jpg",
+      "duration": "0:18",
+      "pubdate": 1793364849,
+      "play": 4962
     },
     {
       "bvid": "BV1hgsd6gE6a",
@@ -29,7 +29,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/928b9f7485d1f654fb003777f620ee5f82566091.jpg",
       "duration": "8:40",
       "pubdate": 1793246400,
-      "play": 38098
+      "play": 38196
     },
     {
       "bvid": "BV1YMsd6rEc9",
@@ -39,7 +39,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1e25fb4cee5db9b0712a248249a2f8a485d6e6ed.jpg",
       "duration": "6:51",
       "pubdate": 1793245051,
-      "play": 13512
+      "play": 13537
     },
     {
       "bvid": "BV1f71ZY1E3a",
