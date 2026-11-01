@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T10:57:16.560Z",
+  "generatedAt": "2026-11-01T11:33:52.250Z",
   "videos": [
     {
       "bvid": "BV1czxp6KELZ",
@@ -9,7 +9,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/3452dd9d504c8196906244ab1e92ebf9d2610919.jpg",
       "duration": "1:57",
       "pubdate": 1793509200,
-      "play": 5321
+      "play": 5500
     },
     {
       "bvid": "BV1zNxp6bEGP",
@@ -19,7 +19,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/50d6a6e03a270c30a385c722e425e491b7a7b111.jpg",
       "duration": "9:43",
       "pubdate": 1793505961,
-      "play": 3480
+      "play": 3602
     },
     {
       "bvid": "BV1LMxp64ERH",
@@ -29,7 +29,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/06b4cefbfb685a31bbe99e12a3a15485e585e919.jpg",
       "duration": "5:0",
       "pubdate": 1793504030,
-      "play": 413
+      "play": 425
     },
     {
       "bvid": "BV1aRxn6jENg",
@@ -39,7 +39,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/464de5601a32bbad56bfcb2f722d9caaa2a558a8.jpg",
       "duration": "12:41",
       "pubdate": 1793483331,
-      "play": 92519
+      "play": 94719
     },
     {
       "bvid": "BV13ixH6EEYd",
@@ -49,7 +49,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/c1a9af5e7bded61e28f745621648a145ca896491.jpg",
       "duration": "5:11",
       "pubdate": 1793481295,
-      "play": 488
+      "play": 507
     },
     {
       "bvid": "BV1Y4x66TEmD",
@@ -62,16 +62,6 @@
       "play": 1376
     },
     {
-      "bvid": "BV1A3sf6TE8f",
-      "title": "曼城6-5点胜布莱顿！蓝白恐怖？逮捕许哥！",
-      "author": "牛奶MiIk",
-      "creator": "milk",
-      "pic": "https://i0.hdslb.com/bfs/archive/f901308340e0432a4ea386512dd72357b2f8da8e.jpg",
-      "duration": "8:7",
-      "pubdate": 1793276230,
-      "play": 11920
-    },
-    {
       "bvid": "BV1hgsd6gE6a",
       "title": "城民饭点 | 曼城2-2（点球大战4-3）布莱顿集锦：科瓦契奇、雷斯建功，鲁利两度扑点，我城淘汰“海鸥”晋级联赛杯八强！",
       "author": "曼城足球俱乐部",
@@ -79,7 +69,17 @@
       "pic": "https://i1.hdslb.com/bfs/archive/928b9f7485d1f654fb003777f620ee5f82566091.jpg",
       "duration": "8:40",
       "pubdate": 1793246400,
-      "play": 38908
+      "play": 38917
+    },
+    {
+      "bvid": "BV1YMsd6rEc9",
+      "title": "沉浸式体验曼城vs布莱顿点球大战｜请勿外放并调低音量｜关爱健康保护耳膜",
+      "author": "小糖姐姐呀",
+      "creator": "sugar",
+      "pic": "https://i0.hdslb.com/bfs/archive/1e25fb4cee5db9b0712a248249a2f8a485d6e6ed.jpg",
+      "duration": "6:51",
+      "pubdate": 1793245051,
+      "play": 13711
     }
   ]
 }
