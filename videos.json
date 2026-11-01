@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-01T13:08:59.788Z",
+  "generatedAt": "2026-11-01T13:54:48.784Z",
   "videos": [
+    {
+      "bvid": "BV1qaxx6qEPL",
+      "title": "曼城0-1不敌布莱顿！二番战败北！这人真魔了？",
+      "author": "牛奶MiIk",
+      "creator": "milk",
+      "pic": "https://i1.hdslb.com/bfs/archive/cd4ddf1aa5a8eb11a4c277ed76cedb6cf0f70cf2.jpg",
+      "duration": "10:43",
+      "pubdate": 1793539556,
+      "play": 652
+    },
     {
       "bvid": "BV1czxp6KELZ",
       "title": "【比赛集锦】英超第9轮，曼城0-1不敌布莱顿",
@@ -9,7 +19,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/3452dd9d504c8196906244ab1e92ebf9d2610919.jpg",
       "duration": "1:57",
       "pubdate": 1793509200,
-      "play": 5846
+      "play": 6002
     },
     {
       "bvid": "BV1zNxp6bEGP",
@@ -19,7 +29,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/50d6a6e03a270c30a385c722e425e491b7a7b111.jpg",
       "duration": "9:43",
       "pubdate": 1793505961,
-      "play": 3815
+      "play": 3901
     },
     {
       "bvid": "BV1LMxp64ERH",
@@ -29,7 +39,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/06b4cefbfb685a31bbe99e12a3a15485e585e919.jpg",
       "duration": "5:0",
       "pubdate": 1793504030,
-      "play": 451
+      "play": 463
     },
     {
       "bvid": "BV1aRxn6jENg",
@@ -39,17 +49,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/464de5601a32bbad56bfcb2f722d9caaa2a558a8.jpg",
       "duration": "12:41",
       "pubdate": 1793483331,
-      "play": 99186
-    },
-    {
-      "bvid": "BV13ixH6EEYd",
-      "title": "（睡衣哥解说）众将平平，曼城0:1不敌布莱顿，进攻集锦纯享版",
-      "author": "战术睡衣很矜持",
-      "creator": "pajama",
-      "pic": "https://i0.hdslb.com/bfs/archive/c1a9af5e7bded61e28f745621648a145ca896491.jpg",
-      "duration": "5:11",
-      "pubdate": 1793481295,
-      "play": 571
+      "play": 101275
     },
     {
       "bvid": "BV1Y4x66TEmD",
@@ -69,7 +69,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/928b9f7485d1f654fb003777f620ee5f82566091.jpg",
       "duration": "8:40",
       "pubdate": 1793246400,
-      "play": 38941
+      "play": 38950
     },
     {
       "bvid": "BV1YMsd6rEc9",
@@ -79,7 +79,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1e25fb4cee5db9b0712a248249a2f8a485d6e6ed.jpg",
       "duration": "6:51",
       "pubdate": 1793245051,
-      "play": 13718
+      "play": 13726
     }
   ]
 }
