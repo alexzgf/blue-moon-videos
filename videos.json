@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-01T04:17:36.436Z",
+  "generatedAt": "2026-11-01T05:11:18.045Z",
   "videos": [
+    {
+      "bvid": "BV1czxp6KELZ",
+      "title": "【比赛集锦】英超第9轮，曼城0-1不敌布莱顿",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i1.hdslb.com/bfs/archive/3452dd9d504c8196906244ab1e92ebf9d2610919.jpg",
+      "duration": "1:57",
+      "pubdate": 1793509200,
+      "play": 1236
+    },
     {
       "bvid": "BV1zNxp6bEGP",
       "title": "曼城vs布莱顿｜不犯规手球教科书｜万圣节看球妆容分享｜新赛季首被零封",
@@ -9,17 +19,17 @@
       "pic": "https://i1.hdslb.com/bfs/archive/50d6a6e03a270c30a385c722e425e491b7a7b111.jpg",
       "duration": "9:43",
       "pubdate": 1793505961,
-      "play": 644
+      "play": 1693
     },
     {
-      "bvid": "BV1Cexp6BEmE",
-      "title": "曼城0:1布莱顿赛后复盘",
+      "bvid": "BV1LMxp64ERH",
+      "title": "曼城vs布莱顿英超vlog",
       "author": "缪可言Sean",
       "creator": "miao",
-      "pic": "https://i1.hdslb.com/bfs/archive/f3c40b4ba0dad77e5eedf0c39d404a7f3ec0a2d2.jpg",
-      "duration": "7:9",
-      "pubdate": 1793499324,
-      "play": 881
+      "pic": "https://i0.hdslb.com/bfs/archive/06b4cefbfb685a31bbe99e12a3a15485e585e919.jpg",
+      "duration": "5:0",
+      "pubdate": 1793504030,
+      "play": 235
     },
     {
       "bvid": "BV1aRxn6jENg",
@@ -29,17 +39,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/464de5601a32bbad56bfcb2f722d9caaa2a558a8.jpg",
       "duration": "12:41",
       "pubdate": 1793483331,
-      "play": 56578
-    },
-    {
-      "bvid": "BV1HVxk6REpY",
-      "title": "一周内再战布莱顿，今夜我们再赢一次！",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i2.hdslb.com/bfs/archive/4c43844deef5e1d542dba6cebb26f9972547723c.jpg",
-      "duration": "0:33",
-      "pubdate": 1793415797,
-      "play": 5865
+      "play": 65330
     },
     {
       "bvid": "BV1Y4x66TEmD",
@@ -49,7 +49,17 @@
       "pic": "https://i2.hdslb.com/bfs/archive/d624bcae334b0eff2a99ae7daf7223fe25bbf233.jpg",
       "duration": "1:37",
       "pubdate": 1793399879,
-      "play": 1369
+      "play": 1370
+    },
+    {
+      "bvid": "BV1A3sf6TE8f",
+      "title": "曼城6-5点胜布莱顿！蓝白恐怖？逮捕许哥！",
+      "author": "牛奶MiIk",
+      "creator": "milk",
+      "pic": "https://i0.hdslb.com/bfs/archive/f901308340e0432a4ea386512dd72357b2f8da8e.jpg",
+      "duration": "8:7",
+      "pubdate": 1793276230,
+      "play": 11837
     },
     {
       "bvid": "BV1hgsd6gE6a",
@@ -59,7 +69,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/928b9f7485d1f654fb003777f620ee5f82566091.jpg",
       "duration": "8:40",
       "pubdate": 1793246400,
-      "play": 38735
+      "play": 38769
     },
     {
       "bvid": "BV1YMsd6rEc9",
@@ -69,17 +79,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1e25fb4cee5db9b0712a248249a2f8a485d6e6ed.jpg",
       "duration": "6:51",
       "pubdate": 1793245051,
-      "play": 13636
-    },
-    {
-      "bvid": "BV18MnS6CEWw",
-      "title": "曼城1-2不敌维拉连胜终结！完蛋玩意！",
-      "author": "牛奶MiIk",
-      "creator": "milk",
-      "pic": "https://i2.hdslb.com/bfs/archive/a84fe045554c03ee04d0437cd8aae0c24f188e91.jpg",
-      "duration": "11:36",
-      "pubdate": 1792940748,
-      "play": 13626
+      "play": 13647
     }
   ]
 }
