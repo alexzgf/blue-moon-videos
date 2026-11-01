@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:28:18.635Z",
+  "generatedAt": "2026-11-01T17:10:04.254Z",
   "videos": [
     {
       "bvid": "BV1qaxx6qEPL",
@@ -9,7 +9,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/cd4ddf1aa5a8eb11a4c277ed76cedb6cf0f70cf2.jpg",
       "duration": "10:43",
       "pubdate": 1793539556,
-      "play": 2143
+      "play": 2340
     },
     {
       "bvid": "BV1czxp6KELZ",
@@ -19,7 +19,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/3452dd9d504c8196906244ab1e92ebf9d2610919.jpg",
       "duration": "1:57",
       "pubdate": 1793509200,
-      "play": 6445
+      "play": 6498
     },
     {
       "bvid": "BV1zNxp6bEGP",
@@ -29,7 +29,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/50d6a6e03a270c30a385c722e425e491b7a7b111.jpg",
       "duration": "9:43",
       "pubdate": 1793505961,
-      "play": 4122
+      "play": 4154
     },
     {
       "bvid": "BV1LMxp64ERH",
@@ -39,7 +39,17 @@
       "pic": "https://i0.hdslb.com/bfs/archive/06b4cefbfb685a31bbe99e12a3a15485e585e919.jpg",
       "duration": "5:0",
       "pubdate": 1793504030,
-      "play": 492
+      "play": 499
+    },
+    {
+      "bvid": "BV1Cexp6BEmE",
+      "title": "曼城0:1布莱顿赛后复盘",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i1.hdslb.com/bfs/archive/f3c40b4ba0dad77e5eedf0c39d404a7f3ec0a2d2.jpg",
+      "duration": "7:9",
+      "pubdate": 1793499324,
+      "play": 1751
     },
     {
       "bvid": "BV1aRxn6jENg",
@@ -49,7 +59,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/464de5601a32bbad56bfcb2f722d9caaa2a558a8.jpg",
       "duration": "12:41",
       "pubdate": 1793483331,
-      "play": 107859
+      "play": 108515
     },
     {
       "bvid": "BV1fPx16tEC8",
@@ -62,16 +72,6 @@
       "play": 3029
     },
     {
-      "bvid": "BV1Y4x66TEmD",
-      "title": "曼城布莱顿英超前瞻",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i2.hdslb.com/bfs/archive/d624bcae334b0eff2a99ae7daf7223fe25bbf233.jpg",
-      "duration": "1:37",
-      "pubdate": 1793399879,
-      "play": 1379
-    },
-    {
       "bvid": "BV1YMsd6rEc9",
       "title": "沉浸式体验曼城vs布莱顿点球大战｜请勿外放并调低音量｜关爱健康保护耳膜",
       "author": "小糖姐姐呀",
@@ -79,7 +79,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1e25fb4cee5db9b0712a248249a2f8a485d6e6ed.jpg",
       "duration": "6:51",
       "pubdate": 1793245051,
-      "play": 13730
+      "play": 13731
     }
   ]
 }
