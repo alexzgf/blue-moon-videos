@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T17:39:05.165Z",
+  "generatedAt": "2026-11-02T18:35:20.036Z",
   "videos": [
     {
       "bvid": "BV1qaxx6qEPL",
@@ -9,7 +9,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/cd4ddf1aa5a8eb11a4c277ed76cedb6cf0f70cf2.jpg",
       "duration": "10:43",
       "pubdate": 1793539556,
-      "play": 6082
+      "play": 6111
     },
     {
       "bvid": "BV1czxp6KELZ",
@@ -19,7 +19,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/3452dd9d504c8196906244ab1e92ebf9d2610919.jpg",
       "duration": "1:57",
       "pubdate": 1793509200,
-      "play": 7944
+      "play": 7974
     },
     {
       "bvid": "BV1zNxp6bEGP",
@@ -29,7 +29,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/50d6a6e03a270c30a385c722e425e491b7a7b111.jpg",
       "duration": "9:43",
       "pubdate": 1793505961,
-      "play": 5047
+      "play": 5063
     },
     {
       "bvid": "BV1LMxp64ERH",
@@ -49,7 +49,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/f3c40b4ba0dad77e5eedf0c39d404a7f3ec0a2d2.jpg",
       "duration": "7:9",
       "pubdate": 1793499324,
-      "play": 1937
+      "play": 1940
     },
     {
       "bvid": "BV1aRxn6jENg",
@@ -59,7 +59,17 @@
       "pic": "https://i1.hdslb.com/bfs/archive/464de5601a32bbad56bfcb2f722d9caaa2a558a8.jpg",
       "duration": "12:41",
       "pubdate": 1793483331,
-      "play": 126737
+      "play": 126959
+    },
+    {
+      "bvid": "BV12Kxy6TEXz",
+      "title": "哈宝：咱就是说非得用投的方式吗？👀",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i2.hdslb.com/bfs/archive/60b6b6900a47b1a607aede643f4f89b517f78e42.jpg",
+      "duration": "0:45",
+      "pubdate": 1793429022,
+      "play": 8124
     },
     {
       "bvid": "BV1A3sf6TE8f",
@@ -70,16 +80,6 @@
       "duration": "8:7",
       "pubdate": 1793276230,
       "play": 12069
-    },
-    {
-      "bvid": "BV1d94y1B7Vp",
-      "title": "【中文字幕】纪录短片《哈兰德：第一季》",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i0.hdslb.com/bfs/archive/20e67da884af2acb81ebf779250c7135ede7bf6f.jpg",
-      "duration": "16:27",
-      "pubdate": 1689349318,
-      "play": 223087
     }
   ]
 }
