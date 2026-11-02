@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-02T16:40:02.105Z",
+  "generatedAt": "2026-11-02T17:39:05.165Z",
   "videos": [
+    {
+      "bvid": "BV1qaxx6qEPL",
+      "title": "曼城0-1不敌布莱顿！二番战败北！这人真魔了？",
+      "author": "牛奶MiIk",
+      "creator": "milk",
+      "pic": "https://i1.hdslb.com/bfs/archive/cd4ddf1aa5a8eb11a4c277ed76cedb6cf0f70cf2.jpg",
+      "duration": "10:43",
+      "pubdate": 1793539556,
+      "play": 6082
+    },
     {
       "bvid": "BV1czxp6KELZ",
       "title": "【比赛集锦】英超第9轮，曼城0-1不敌布莱顿",
@@ -9,7 +19,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/3452dd9d504c8196906244ab1e92ebf9d2610919.jpg",
       "duration": "1:57",
       "pubdate": 1793509200,
-      "play": 7925
+      "play": 7944
     },
     {
       "bvid": "BV1zNxp6bEGP",
@@ -19,7 +29,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/50d6a6e03a270c30a385c722e425e491b7a7b111.jpg",
       "duration": "9:43",
       "pubdate": 1793505961,
-      "play": 5031
+      "play": 5047
     },
     {
       "bvid": "BV1LMxp64ERH",
@@ -29,7 +39,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/06b4cefbfb685a31bbe99e12a3a15485e585e919.jpg",
       "duration": "5:0",
       "pubdate": 1793504030,
-      "play": 593
+      "play": 595
     },
     {
       "bvid": "BV1Cexp6BEmE",
@@ -39,7 +49,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/f3c40b4ba0dad77e5eedf0c39d404a7f3ec0a2d2.jpg",
       "duration": "7:9",
       "pubdate": 1793499324,
-      "play": 1928
+      "play": 1937
     },
     {
       "bvid": "BV1aRxn6jENg",
@@ -49,17 +59,27 @@
       "pic": "https://i1.hdslb.com/bfs/archive/464de5601a32bbad56bfcb2f722d9caaa2a558a8.jpg",
       "duration": "12:41",
       "pubdate": 1793483331,
-      "play": 126389
+      "play": 126737
     },
     {
-      "bvid": "BV1xQFQzzEKH",
-      "title": "曼城马年球衣版Chinese Trend 弥渡山歌",
-      "author": "小糖姐姐呀",
-      "creator": "sugar",
-      "pic": "https://i2.hdslb.com/bfs/archive/749acccc538a1ff0f42e121c9e974a95756f2268.jpg",
-      "duration": "0:16",
-      "pubdate": 1770720963,
-      "play": 22854
+      "bvid": "BV1A3sf6TE8f",
+      "title": "曼城6-5点胜布莱顿！蓝白恐怖？逮捕许哥！",
+      "author": "牛奶MiIk",
+      "creator": "milk",
+      "pic": "https://i0.hdslb.com/bfs/archive/f901308340e0432a4ea386512dd72357b2f8da8e.jpg",
+      "duration": "8:7",
+      "pubdate": 1793276230,
+      "play": 12069
+    },
+    {
+      "bvid": "BV1d94y1B7Vp",
+      "title": "【中文字幕】纪录短片《哈兰德：第一季》",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i0.hdslb.com/bfs/archive/20e67da884af2acb81ebf779250c7135ede7bf6f.jpg",
+      "duration": "16:27",
+      "pubdate": 1689349318,
+      "play": 223087
     }
   ]
 }
