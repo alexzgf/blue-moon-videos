@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T12:14:03.341Z",
+  "generatedAt": "2026-11-05T13:36:49.453Z",
   "videos": [
     {
       "bvid": "BV1jx4t6VE5A",
@@ -9,7 +9,17 @@
       "pic": "https://i2.hdslb.com/bfs/archive/ee4dabf039360f370ce999bcfd6bd538506eaab2.jpg",
       "duration": "0:8",
       "pubdate": 1793852758,
-      "play": 11747
+      "play": 12908
+    },
+    {
+      "bvid": "BV1nsxZ6aEhF",
+      "title": "曼城全新豪华球迷商店开业啦",
+      "author": "小糖姐姐呀",
+      "creator": "sugar",
+      "pic": "https://i1.hdslb.com/bfs/archive/4bec00794689d8fa80e69b473c138c74216ba7fc.jpg",
+      "duration": "3:7",
+      "pubdate": 1793848757,
+      "play": 3046
     },
     {
       "bvid": "BV1vexZ6xE8g",
@@ -19,7 +29,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/410ff5e052db54ca8a21153c97eaa3db616aa76f.jpg",
       "duration": "0:18",
       "pubdate": 1793848037,
-      "play": 6301
+      "play": 6640
     },
     {
       "bvid": "BV1dVxf6ZENs",
@@ -29,7 +39,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/5c5af39d7d01e9863bd0c243ad57ee6ced6187d5.jpg",
       "duration": "4:9",
       "pubdate": 1793840226,
-      "play": 2463
+      "play": 2537
     },
     {
       "bvid": "BV1qaxx6qEPL",
@@ -39,7 +49,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/cd4ddf1aa5a8eb11a4c277ed76cedb6cf0f70cf2.jpg",
       "duration": "10:43",
       "pubdate": 1793539556,
-      "play": 8012
+      "play": 8021
     },
     {
       "bvid": "BV1zNxp6bEGP",
@@ -49,7 +59,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/50d6a6e03a270c30a385c722e425e491b7a7b111.jpg",
       "duration": "9:43",
       "pubdate": 1793505961,
-      "play": 5675
+      "play": 5679
     },
     {
       "bvid": "BV1Cexp6BEmE",
@@ -69,17 +79,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/a84fe045554c03ee04d0437cd8aae0c24f188e91.jpg",
       "duration": "11:36",
       "pubdate": 1792940748,
-      "play": 14016
-    },
-    {
-      "bvid": "BV1f71ZY1E3a",
-      "title": "曼城vs富勒姆｜带娃和看球不可兼得｜科瓦契奇梅开二度｜多库世界波｜瓜迪奥拉我们想让留下!｜小糖的带娃初体验",
-      "author": "小糖姐姐呀",
-      "creator": "sugar",
-      "pic": "https://i0.hdslb.com/bfs/archive/b7b9055fc5e4826b23a4019fbbe3f68589979e70.jpg",
-      "duration": "8:24",
-      "pubdate": 1728169678,
-      "play": 32387
+      "play": 14021
     }
   ]
 }
