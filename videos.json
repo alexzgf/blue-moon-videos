@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-11-05T21:18:06.392Z",
+  "generatedAt": "2026-11-05T22:10:19.073Z",
   "videos": [
-    {
-      "bvid": "BV1Ss4h66E3x",
-      "title": "9️⃣5️⃣连线，制胜时刻🙌",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i0.hdslb.com/bfs/archive/d828a31010ab14ca27f989c8614f3e55f75acdf5.jpg",
-      "duration": "0:24",
-      "pubdate": 1793888543,
-      "play": 3765
-    },
-    {
-      "bvid": "BV1jx4t6VE5A",
-      "title": "对阵RB莱比锡头槌建功！恩佐欧冠之夜当选全场最佳🌟",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i2.hdslb.com/bfs/archive/ee4dabf039360f370ce999bcfd6bd538506eaab2.jpg",
-      "duration": "0:8",
-      "pubdate": 1793852758,
-      "play": 16325
-    },
     {
       "bvid": "BV1nsxZ6aEhF",
       "title": "曼城全新豪华球迷商店开业啦",
@@ -29,7 +9,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/4bec00794689d8fa80e69b473c138c74216ba7fc.jpg",
       "duration": "3:7",
       "pubdate": 1793848757,
-      "play": 3477
+      "play": 3488
     },
     {
       "bvid": "BV1dVxf6ZENs",
@@ -39,17 +19,27 @@
       "pic": "https://i0.hdslb.com/bfs/archive/5c5af39d7d01e9863bd0c243ad57ee6ced6187d5.jpg",
       "duration": "4:9",
       "pubdate": 1793840226,
-      "play": 2692
+      "play": 2693
     },
     {
-      "bvid": "BV1Cexp6BEmE",
-      "title": "曼城0:1布莱顿赛后复盘",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i1.hdslb.com/bfs/archive/f3c40b4ba0dad77e5eedf0c39d404a7f3ec0a2d2.jpg",
-      "duration": "7:9",
-      "pubdate": 1793499324,
-      "play": 2011
+      "bvid": "BV1c7MUzyEsA",
+      "title": "只有踢球的人才懂这声音有多爽！",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i0.hdslb.com/bfs/archive/180631238b9e93da2b5163670924d439c4f6d350.jpg",
+      "duration": "1:28",
+      "pubdate": 1749945600,
+      "play": 283566
+    },
+    {
+      "bvid": "BV1L3kdYwEYc",
+      "title": "【官方完整版】曼城纪录片《众志成城：连下四城》",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i1.hdslb.com/bfs/archive/f767dd287e4c9b84fe6ac1cd5ccc8fbc613d69e3.jpg",
+      "duration": "92:9",
+      "pubdate": 1735039907,
+      "play": 197039
     },
     {
       "bvid": "BV1f71ZY1E3a",
