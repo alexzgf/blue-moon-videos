@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T08:04:38.381Z",
+  "generatedAt": "2026-11-05T09:05:04.834Z",
   "videos": [
     {
       "bvid": "BV1nsxZ6aEhF",
@@ -9,7 +9,17 @@
       "pic": "https://i2.hdslb.com/bfs/archive/417dc37d734f68e619f9bcd6d087f8f33b772cc5.jpg",
       "duration": "3:8",
       "pubdate": 1793848757,
-      "play": 2713
+      "play": 2847
+    },
+    {
+      "bvid": "BV1vexZ6xE8g",
+      "title": "激动得无以言表！听听欧冠制胜功臣哈宝的赛后感言💬",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i1.hdslb.com/bfs/archive/410ff5e052db54ca8a21153c97eaa3db616aa76f.jpg",
+      "duration": "0:18",
+      "pubdate": 1793848037,
+      "play": 5290
     },
     {
       "bvid": "BV1YW4G6bEM2",
@@ -19,17 +29,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/aacdc3333e0fbe15741eb5c0b6e896a1014bbb0a.jpg",
       "duration": "7:25",
       "pubdate": 1793708477,
-      "play": 4344
-    },
-    {
-      "bvid": "BV1E14M6ZERL",
-      "title": "你的声优哈宝已上线🤩城里人全力备战RB莱比锡！",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i2.hdslb.com/bfs/archive/9931e87e0227beb522981a43f88975c80218e06d.jpg",
-      "duration": "0:27",
-      "pubdate": 1793680351,
-      "play": 6148
+      "play": 4362
     },
     {
       "bvid": "BV1qaxx6qEPL",
@@ -39,7 +39,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/cd4ddf1aa5a8eb11a4c277ed76cedb6cf0f70cf2.jpg",
       "duration": "10:43",
       "pubdate": 1793539556,
-      "play": 7966
+      "play": 7973
     },
     {
       "bvid": "BV1zNxp6bEGP",
@@ -49,7 +49,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/50d6a6e03a270c30a385c722e425e491b7a7b111.jpg",
       "duration": "9:43",
       "pubdate": 1793505961,
-      "play": 5657
+      "play": 5660
     },
     {
       "bvid": "BV1LMxp64ERH",
