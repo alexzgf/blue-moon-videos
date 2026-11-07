@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-07T14:39:05.549Z",
+  "generatedAt": "2026-11-07T15:19:46.884Z",
   "videos": [
+    {
+      "bvid": "BV1uW4J6kEUj",
+      "title": "城里传统节目：《害羞的新援与积极助攻的老大哥》",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i0.hdslb.com/bfs/archive/06e1ae0cac60b68aa6bc2c805c34a8155f23bb6f.jpg",
+      "duration": "0:19",
+      "pubdate": 1794032548,
+      "play": 5382
+    },
     {
       "bvid": "BV1PU4j6oEUM",
       "title": "禁区戏耍利物浦后防，谢尔基的推射破门当选曼城十月最佳进球！",
@@ -9,17 +19,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/74a4e6f0d47a04924eb10f1896e729f0039f3d7c.jpg",
       "duration": "0:56",
       "pubdate": 1794025800,
-      "play": 4956
-    },
-    {
-      "bvid": "BV1b54i6XE9R",
-      "title": "这粒进球，有没有让你回忆起那位曼城国王？",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i2.hdslb.com/bfs/archive/2b2e33ff578d45c460c69d7459954317a4cbcbd5.jpg",
-      "duration": "0:28",
-      "pubdate": 1793948400,
-      "play": 9423
+      "play": 5062
     },
     {
       "bvid": "BV1z24h6xE3Q",
@@ -29,7 +29,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/d6cad85521e9723884c2e5c9048afff95b9d6a40.jpg",
       "duration": "6:4",
       "pubdate": 1793886185,
-      "play": 4134
+      "play": 4148
     },
     {
       "bvid": "BV1nsxZ6aEhF",
@@ -39,7 +39,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/4bec00794689d8fa80e69b473c138c74216ba7fc.jpg",
       "duration": "3:7",
       "pubdate": 1793848757,
-      "play": 4719
+      "play": 4724
     },
     {
       "bvid": "BV1dVxf6ZENs",
@@ -59,7 +59,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/cd4ddf1aa5a8eb11a4c277ed76cedb6cf0f70cf2.jpg",
       "duration": "10:43",
       "pubdate": 1793539556,
-      "play": 8436
+      "play": 8448
     },
     {
       "bvid": "BV1aRxn6jENg",
@@ -69,7 +69,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/464de5601a32bbad56bfcb2f722d9caaa2a558a8.jpg",
       "duration": "12:41",
       "pubdate": 1793483331,
-      "play": 141539
+      "play": 141583
     },
     {
       "bvid": "BV1f71ZY1E3a",
