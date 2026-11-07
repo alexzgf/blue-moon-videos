@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-07T21:27:14.100Z",
+  "generatedAt": "2026-11-07T22:10:22.342Z",
   "videos": [
+    {
+      "bvid": "BV1PU4j6oEUM",
+      "title": "禁区戏耍利物浦后防，谢尔基的推射破门当选曼城十月最佳进球！",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i0.hdslb.com/bfs/archive/74a4e6f0d47a04924eb10f1896e729f0039f3d7c.jpg",
+      "duration": "0:56",
+      "pubdate": 1794025800,
+      "play": 5308
+    },
+    {
+      "bvid": "BV1b54i6XE9R",
+      "title": "这粒进球，有没有让你回忆起那位曼城国王？",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i2.hdslb.com/bfs/archive/2b2e33ff578d45c460c69d7459954317a4cbcbd5.jpg",
+      "duration": "0:28",
+      "pubdate": 1793948400,
+      "play": 9642
+    },
     {
       "bvid": "BV1z24h6xE3Q",
       "title": "曼城3-2险胜莱比锡！本质会自转的陀螺？",
@@ -19,7 +39,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/4bec00794689d8fa80e69b473c138c74216ba7fc.jpg",
       "duration": "3:7",
       "pubdate": 1793848757,
-      "play": 4762
+      "play": 4763
     },
     {
       "bvid": "BV1dVxf6ZENs",
@@ -39,17 +59,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/cd4ddf1aa5a8eb11a4c277ed76cedb6cf0f70cf2.jpg",
       "duration": "10:43",
       "pubdate": 1793539556,
-      "play": 8520
-    },
-    {
-      "bvid": "BV1XLN46yE2B",
-      "title": "当哈兰德表情包与现实完美融合",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i2.hdslb.com/bfs/archive/5d80c0c79f73a93f7fbdfd7558fd2e6faa8bda4d.jpg",
-      "duration": "0:31",
-      "pubdate": 1783748121,
-      "play": 13952437
+      "play": 8521
     },
     {
       "bvid": "BV1f71ZY1E3a",
@@ -60,16 +70,6 @@
       "duration": "8:24",
       "pubdate": 1728169678,
       "play": 32389
-    },
-    {
-      "bvid": "BV1gS4y1N7AA",
-      "title": "我城来了！曼城正式入驻B站 玎老师喊你一键三连",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i1.hdslb.com/bfs/archive/35e0a9b9935fee21b878b78522d2fb25e80388a8.jpg",
-      "duration": "1:54",
-      "pubdate": 1650012910,
-      "play": 505254
     }
   ]
 }
