@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-08T06:34:21.767Z",
+  "generatedAt": "2026-11-08T07:41:19.523Z",
   "videos": [
+    {
+      "bvid": "BV1ssW76pERb",
+      "title": "曼城比赛赛前，球迷狂吸曼联元气却没有作用",
+      "author": "战术睡衣很矜持",
+      "creator": "pajama",
+      "pic": "https://i0.hdslb.com/bfs/archive/940dd4e71d1817ff2a4c9409037bcf4533585512.jpg",
+      "duration": "1:37",
+      "pubdate": 1794122914,
+      "play": 125
+    },
+    {
+      "bvid": "BV1UFWE6bEjh",
+      "title": "睡衣哥解说集锦：诺丁汉森林3：1曼城",
+      "author": "战术睡衣很矜持",
+      "creator": "pajama",
+      "pic": "https://i2.hdslb.com/bfs/archive/2fcc46e098ae1b3268a005020b6781ad75f5f1dd.jpg",
+      "duration": "3:37",
+      "pubdate": 1794121241,
+      "play": 887
+    },
     {
       "bvid": "BV1PU4j6oEUM",
       "title": "禁区戏耍利物浦后防，谢尔基的推射破门当选曼城十月最佳进球！",
@@ -9,7 +29,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/74a4e6f0d47a04924eb10f1896e729f0039f3d7c.jpg",
       "duration": "0:56",
       "pubdate": 1794025800,
-      "play": 5695
+      "play": 5720
     },
     {
       "bvid": "BV1b54i6XE9R",
@@ -19,7 +39,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/2b2e33ff578d45c460c69d7459954317a4cbcbd5.jpg",
       "duration": "0:28",
       "pubdate": 1793948400,
-      "play": 9801
+      "play": 9818
     },
     {
       "bvid": "BV1z24h6xE3Q",
@@ -29,7 +49,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/d6cad85521e9723884c2e5c9048afff95b9d6a40.jpg",
       "duration": "6:4",
       "pubdate": 1793886185,
-      "play": 4260
+      "play": 4263
     },
     {
       "bvid": "BV1nsxZ6aEhF",
@@ -39,7 +59,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/4bec00794689d8fa80e69b473c138c74216ba7fc.jpg",
       "duration": "3:7",
       "pubdate": 1793848757,
-      "play": 4833
+      "play": 4840
     },
     {
       "bvid": "BV1dVxf6ZENs",
@@ -49,7 +69,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/5c5af39d7d01e9863bd0c243ad57ee6ced6187d5.jpg",
       "duration": "4:9",
       "pubdate": 1793840226,
-      "play": 2886
+      "play": 2889
     },
     {
       "bvid": "BV1qaxx6qEPL",
@@ -59,27 +79,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/cd4ddf1aa5a8eb11a4c277ed76cedb6cf0f70cf2.jpg",
       "duration": "10:43",
       "pubdate": 1793539556,
-      "play": 8640
-    },
-    {
-      "bvid": "BV1aRxn6jENg",
-      "title": "曼联助力切尔西结束两连败，马雷斯卡助力曼城收获两连败！",
-      "author": "战术睡衣",
-      "creator": "pajama",
-      "pic": "https://i1.hdslb.com/bfs/archive/464de5601a32bbad56bfcb2f722d9caaa2a558a8.jpg",
-      "duration": "12:41",
-      "pubdate": 1793483331,
-      "play": 142238
-    },
-    {
-      "bvid": "BV1f71ZY1E3a",
-      "title": "曼城vs富勒姆｜带娃和看球不可兼得｜科瓦契奇梅开二度｜多库世界波｜瓜迪奥拉我们想让留下!｜小糖的带娃初体验",
-      "author": "小糖姐姐呀",
-      "creator": "sugar",
-      "pic": "https://i0.hdslb.com/bfs/archive/b7b9055fc5e4826b23a4019fbbe3f68589979e70.jpg",
-      "duration": "8:24",
-      "pubdate": 1728169678,
-      "play": 32390
+      "play": 8644
     }
   ]
 }
