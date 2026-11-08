@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T16:58:33.918Z",
+  "generatedAt": "2026-11-08T17:36:25.712Z",
   "videos": [
     {
       "bvid": "BV1t1Wn6iEQe",
@@ -9,7 +9,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/e47c5615037828802e3722df83547917129daf95.jpg",
       "duration": "9:37",
       "pubdate": 1794155388,
-      "play": 371
+      "play": 639
     },
     {
       "bvid": "BV1UFWE6bEjh",
@@ -19,7 +19,17 @@
       "pic": "https://i2.hdslb.com/bfs/archive/2fcc46e098ae1b3268a005020b6781ad75f5f1dd.jpg",
       "duration": "3:37",
       "pubdate": 1794121241,
-      "play": 3468
+      "play": 3488
+    },
+    {
+      "bvid": "BV1JL4x6GEpo",
+      "title": "【比赛集锦】英超第10轮，曼城客场1-3不敌诺丁汉森林",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i2.hdslb.com/bfs/archive/8cc72d22d47ef44ec6cd69316aac7fa14a5f2f96.jpg",
+      "duration": "8:7",
+      "pubdate": 1794109142,
+      "play": 9910
     },
     {
       "bvid": "BV1uW4J6kEUj",
@@ -29,17 +39,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/06e1ae0cac60b68aa6bc2c805c34a8155f23bb6f.jpg",
       "duration": "0:19",
       "pubdate": 1794032548,
-      "play": 7335
-    },
-    {
-      "bvid": "BV1ZB4i6TEzn",
-      "title": "完美的传中当然要配完美的头球",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i0.hdslb.com/bfs/archive/560077ac9695c7c8afb40ef9ee3ef7d92884743f.jpg",
-      "duration": "0:19",
-      "pubdate": 1793934439,
-      "play": 18234
+      "play": 7349
     },
     {
       "bvid": "BV1z24h6xE3Q",
@@ -49,7 +49,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/d6cad85521e9723884c2e5c9048afff95b9d6a40.jpg",
       "duration": "6:4",
       "pubdate": 1793886185,
-      "play": 4318
+      "play": 4321
     },
     {
       "bvid": "BV1nsxZ6aEhF",
@@ -59,7 +59,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/4bec00794689d8fa80e69b473c138c74216ba7fc.jpg",
       "duration": "3:7",
       "pubdate": 1793848757,
-      "play": 4891
+      "play": 4893
     },
     {
       "bvid": "BV1dVxf6ZENs",
