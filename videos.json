@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:41:19.523Z",
+  "generatedAt": "2026-11-08T08:31:05.949Z",
   "videos": [
     {
       "bvid": "BV1ssW76pERb",
@@ -9,7 +9,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/940dd4e71d1817ff2a4c9409037bcf4533585512.jpg",
       "duration": "1:37",
       "pubdate": 1794122914,
-      "play": 125
+      "play": 307
     },
     {
       "bvid": "BV1UFWE6bEjh",
@@ -19,7 +19,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/2fcc46e098ae1b3268a005020b6781ad75f5f1dd.jpg",
       "duration": "3:37",
       "pubdate": 1794121241,
-      "play": 887
+      "play": 1246
     },
     {
       "bvid": "BV1PU4j6oEUM",
@@ -29,7 +29,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/74a4e6f0d47a04924eb10f1896e729f0039f3d7c.jpg",
       "duration": "0:56",
       "pubdate": 1794025800,
-      "play": 5720
+      "play": 5730
     },
     {
       "bvid": "BV1b54i6XE9R",
@@ -39,7 +39,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/2b2e33ff578d45c460c69d7459954317a4cbcbd5.jpg",
       "duration": "0:28",
       "pubdate": 1793948400,
-      "play": 9818
+      "play": 9828
     },
     {
       "bvid": "BV1z24h6xE3Q",
@@ -49,7 +49,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/d6cad85521e9723884c2e5c9048afff95b9d6a40.jpg",
       "duration": "6:4",
       "pubdate": 1793886185,
-      "play": 4263
+      "play": 4269
     },
     {
       "bvid": "BV1nsxZ6aEhF",
@@ -59,7 +59,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/4bec00794689d8fa80e69b473c138c74216ba7fc.jpg",
       "duration": "3:7",
       "pubdate": 1793848757,
-      "play": 4840
+      "play": 4846
     },
     {
       "bvid": "BV1dVxf6ZENs",
@@ -79,7 +79,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/cd4ddf1aa5a8eb11a4c277ed76cedb6cf0f70cf2.jpg",
       "duration": "10:43",
       "pubdate": 1793539556,
-      "play": 8644
+      "play": 8651
     }
   ]
 }
