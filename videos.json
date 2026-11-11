@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T09:51:02.638Z",
+  "generatedAt": "2026-11-11T10:49:43.006Z",
   "videos": [
     {
       "bvid": "BV1UWWH6zE8o",
@@ -9,7 +9,17 @@
       "pic": "https://i2.hdslb.com/bfs/archive/aaf462be0db5003948176078dd102a6b2fe93f59.jpg",
       "duration": "0:55",
       "pubdate": 1794152772,
-      "play": 1072
+      "play": 1076
+    },
+    {
+      "bvid": "BV1JL4x6GEpo",
+      "title": "【比赛集锦】英超第10轮，曼城客场1-3不敌诺丁汉森林",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i2.hdslb.com/bfs/archive/8cc72d22d47ef44ec6cd69316aac7fa14a5f2f96.jpg",
+      "duration": "8:7",
+      "pubdate": 1794109142,
+      "play": 13299
     },
     {
       "bvid": "BV1c94x6jEHU",
@@ -19,7 +29,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/f8b100f569396400fda15cbc9b3688152dd22014.jpg",
       "duration": "1:38",
       "pubdate": 1794097611,
-      "play": 5887
+      "play": 5894
     },
     {
       "bvid": "BV1nsxZ6aEhF",
@@ -29,17 +39,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/4bec00794689d8fa80e69b473c138c74216ba7fc.jpg",
       "duration": "3:7",
       "pubdate": 1793848757,
-      "play": 5002
-    },
-    {
-      "bvid": "BV1fQjUzfEVV",
-      "title": "天才不止助攻！德布劳内曼城生涯全进球集锦重磅来袭！",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i2.hdslb.com/bfs/archive/6b615a2a97bf3d3812b5095887833d74762d3c00.jpg",
-      "duration": "49:10",
-      "pubdate": 1748311200,
-      "play": 137303
+      "play": 5006
     },
     {
       "bvid": "BV1f71ZY1E3a",
@@ -50,16 +50,6 @@
       "duration": "8:24",
       "pubdate": 1728169678,
       "play": 32393
-    },
-    {
-      "bvid": "BV17B421r7Mt",
-      "title": "品中餐，贺龙年，城里“饭搭子”的新春饭局正式“开炫”！",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i0.hdslb.com/bfs/archive/edd41ebcdfa78dd0fb40c694a9690b7d671afab5.jpg",
-      "duration": "4:43",
-      "pubdate": 1706847001,
-      "play": 345788
     }
   ]
 }
