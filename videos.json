@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-15T00:53:42.026Z",
+  "generatedAt": "2026-11-15T01:57:45.236Z",
   "videos": [
+    {
+      "bvid": "BV1gLs56dEHg",
+      "title": "“天资是很残忍的东西”",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i2.hdslb.com/bfs/archive/bdc750c4a77e7ec15bbbda85dce7d545a127afd7.jpg",
+      "duration": "0:19",
+      "pubdate": 1794655892,
+      "play": 34112
+    },
     {
       "bvid": "BV1EZs368EMf",
       "title": "根本不存在这种体力",
@@ -9,17 +19,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/6e8dd8198859093d562b8064d9fc94f6f539e658.jpg",
       "duration": "0:16",
       "pubdate": 1794649145,
-      "play": 6525
-    },
-    {
-      "bvid": "BV13BWC6zEU7",
-      "title": "以防你没有看过淡人玩游戏",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i0.hdslb.com/bfs/archive/8ced28e147a226ae01aa566d5eb2f8a0ef15711c.jpg",
-      "duration": "0:54",
-      "pubdate": 1794628088,
-      "play": 23004
+      "play": 6809
     },
     {
       "bvid": "BV1t1Wn6iEQe",
@@ -29,7 +29,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/e47c5615037828802e3722df83547917129daf95.jpg",
       "duration": "9:37",
       "pubdate": 1794155388,
-      "play": 5257
+      "play": 5264
     },
     {
       "bvid": "BV1UWWH6zE8o",
@@ -49,7 +49,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/f8b100f569396400fda15cbc9b3688152dd22014.jpg",
       "duration": "1:38",
       "pubdate": 1794097611,
-      "play": 6214
+      "play": 6221
     },
     {
       "bvid": "BV1nsxZ6aEhF",
@@ -59,7 +59,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/4bec00794689d8fa80e69b473c138c74216ba7fc.jpg",
       "duration": "3:7",
       "pubdate": 1793848757,
-      "play": 5127
+      "play": 5128
     },
     {
       "bvid": "BV1qaxx6qEPL",
@@ -69,7 +69,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/cd4ddf1aa5a8eb11a4c277ed76cedb6cf0f70cf2.jpg",
       "duration": "10:43",
       "pubdate": 1793539556,
-      "play": 9776
+      "play": 9791
     }
   ]
 }
