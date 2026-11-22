@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-22T11:54:55.988Z",
+  "generatedAt": "2026-11-22T19:19:53.306Z",
   "videos": [
+    {
+      "bvid": "BV1gGyLzxEHY",
+      "title": "城里的桃花影落飞神剑，安德森收获在曼城的英超首球！",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i0.hdslb.com/bfs/archive/c5dfca9704e3640b121b7095b8e8344dd896f9d0.jpg",
+      "duration": "0:22",
+      "pubdate": 1795350539,
+      "play": 5536
+    },
     {
       "bvid": "BV1U9yVzUEAS",
       "title": "（睡衣哥解说）曼城主场1:1富勒姆，四轮比赛仅拿一分",
@@ -9,7 +19,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/c5858fe2e3d49e0c184e691edb1251dfce6d51ca.jpg",
       "duration": "7:16",
       "pubdate": 1795326611,
-      "play": 1308
+      "play": 1711
     },
     {
       "bvid": "BV1KRy3z3Efd",
@@ -19,7 +29,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/71039d1bb892517ab6679f94db36590b87c1a386.jpg",
       "duration": "8:33",
       "pubdate": 1795317054,
-      "play": 3798
+      "play": 4282
     },
     {
       "bvid": "BV1SQy3zGEnP",
@@ -29,7 +39,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/7758035056eaa0538b1648c3f0945f187930ac5b.jpg",
       "duration": "7:17",
       "pubdate": 1795314487,
-      "play": 2664
+      "play": 3031
     },
     {
       "bvid": "BV1hsyGzSEfM",
@@ -39,7 +49,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1e2728a76392e8037aaabc7dd64be3d57f91cc5a.jpg",
       "duration": "4:14",
       "pubdate": 1795311859,
-      "play": 816
+      "play": 969
     },
     {
       "bvid": "BV1cKyvzwEmu",
@@ -49,17 +59,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/746233936c679b7987e8dbcc6f4b739082f8f659.jpg",
       "duration": "12:34",
       "pubdate": 1795291598,
-      "play": 72470
-    },
-    {
-      "bvid": "BV1cisq66EUU",
-      "title": "😆🎯别看了尔基，我们在拍呢",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i1.hdslb.com/bfs/archive/4dfeae60a8b19645c6a4c9b422ced1b76d83342f.jpg",
-      "duration": "0:14",
-      "pubdate": 1795156170,
-      "play": 9570
+      "play": 81522
     },
     {
       "bvid": "BV1t1Wn6iEQe",
@@ -69,7 +69,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/e47c5615037828802e3722df83547917129daf95.jpg",
       "duration": "9:37",
       "pubdate": 1794155388,
-      "play": 5948
+      "play": 5963
     }
   ]
 }
