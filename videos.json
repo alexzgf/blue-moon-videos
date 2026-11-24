@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-24T04:46:23.504Z",
+  "generatedAt": "2026-11-24T15:22:09.142Z",
   "videos": [
+    {
+      "bvid": "BV1hDyfzEEib",
+      "title": "布丁的甜，城民都好这一口👀",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i1.hdslb.com/bfs/archive/5b1fc9c333a631eaca3b65bc0b043682e4a4df02.jpg",
+      "duration": "0:12",
+      "pubdate": 1795513219,
+      "play": 4966
+    },
     {
       "bvid": "BV1VzyRz3E6P",
       "title": "欧冠对决那不勒斯，曼城公开训练课",
@@ -9,17 +19,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/0d0724d9fdaefb9f6831ce1d4dfe3341bf2385e0.jpg",
       "duration": "15:15",
       "pubdate": 1795489829,
-      "play": 2367
-    },
-    {
-      "bvid": "BV11KyDzjE4t",
-      "title": "德布劳内曼城十大助攻，一起来回顾蓝月国王的传奇风采",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i0.hdslb.com/bfs/archive/5c9dcb700d1978706ff49a32e09213893c695642.jpg",
-      "duration": "9:39",
-      "pubdate": 1795436054,
-      "play": 6765
+      "play": 5141
     },
     {
       "bvid": "BV1SQy3zGEnP",
@@ -29,7 +29,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/7758035056eaa0538b1648c3f0945f187930ac5b.jpg",
       "duration": "7:17",
       "pubdate": 1795314487,
-      "play": 3438
+      "play": 3508
     },
     {
       "bvid": "BV1hsyGzSEfM",
@@ -39,7 +39,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/1e2728a76392e8037aaabc7dd64be3d57f91cc5a.jpg",
       "duration": "4:14",
       "pubdate": 1795311859,
-      "play": 1015
+      "play": 1022
     },
     {
       "bvid": "BV1cKyvzwEmu",
@@ -49,7 +49,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/746233936c679b7987e8dbcc6f4b739082f8f659.jpg",
       "duration": "12:34",
       "pubdate": 1795291598,
-      "play": 90945
+      "play": 92954
     },
     {
       "bvid": "BV1f71ZY1E3a",
