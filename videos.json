@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-25T08:18:45.449Z",
+  "generatedAt": "2026-11-25T18:44:07.558Z",
   "videos": [
+    {
+      "bvid": "BV1dgykzrEjh",
+      "title": "好消息：又在伊蒂哈德看到德布劳内了！坏消息：曼城又一场不胜…",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i0.hdslb.com/bfs/archive/376fe1f8521789ca6a6934960801d48336924464.jpg",
+      "duration": "5:12",
+      "pubdate": 1795610596,
+      "play": 1008
+    },
+    {
+      "bvid": "BV1nrykznEYf",
+      "title": "🩵我们有千言万语想对你说，但我们最想说的是：欢迎回家，德布劳内",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i0.hdslb.com/bfs/archive/3d0458611b2e00d95ad9f895772a2d73dc6995a8.jpg",
+      "duration": "0:19",
+      "pubdate": 1795605615,
+      "play": 10779
+    },
     {
       "bvid": "BV14HyBzmE9E",
       "title": "曼城vs那不勒斯｜德布劳内回家｜布阿迪处子球｜切尔基绝平｜这个牢坐到什么时候是个头啊啊啊",
@@ -9,17 +29,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/fa74aa4d32edcf9485614a117d5ef40cbeaae594.jpg",
       "duration": "10:51",
       "pubdate": 1795586706,
-      "play": 1360
-    },
-    {
-      "bvid": "BV1VzyRz3E6P",
-      "title": "欧冠对决那不勒斯，曼城公开训练课",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i2.hdslb.com/bfs/archive/0d0724d9fdaefb9f6831ce1d4dfe3341bf2385e0.jpg",
-      "duration": "15:15",
-      "pubdate": 1795489829,
-      "play": 6030
+      "play": 2626
     },
     {
       "bvid": "BV11KyDzjE4t",
@@ -29,17 +39,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/5c9dcb700d1978706ff49a32e09213893c695642.jpg",
       "duration": "9:39",
       "pubdate": 1795436054,
-      "play": 16080
-    },
-    {
-      "bvid": "BV16AyHzdE9q",
-      "title": "曼城主场1:1艰难逼平富勒姆！马雷斯卡？猪雷斯卡！",
-      "author": "牛奶MiIk",
-      "creator": "milk",
-      "pic": "https://i1.hdslb.com/bfs/archive/df5da0ecc4daff37ab176218a7b82a83eb86a639.jpg",
-      "duration": "10:32",
-      "pubdate": 1795423168,
-      "play": 5775
+      "play": 19180
     },
     {
       "bvid": "BV1SQy3zGEnP",
@@ -49,27 +49,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/7758035056eaa0538b1648c3f0945f187930ac5b.jpg",
       "duration": "7:17",
       "pubdate": 1795314487,
-      "play": 3599
-    },
-    {
-      "bvid": "BV1hsyGzSEfM",
-      "title": "四轮不胜…曼城又一场憋屈的比赛",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i0.hdslb.com/bfs/archive/1e2728a76392e8037aaabc7dd64be3d57f91cc5a.jpg",
-      "duration": "4:14",
-      "pubdate": 1795311859,
-      "play": 1025
-    },
-    {
-      "bvid": "BV1cKyvzwEmu",
-      "title": "拉胯！曼城1比1富勒姆，极致拉胯！切尔西1比4利兹联！",
-      "author": "战术睡衣",
-      "creator": "pajama",
-      "pic": "https://i1.hdslb.com/bfs/archive/746233936c679b7987e8dbcc6f4b739082f8f659.jpg",
-      "duration": "12:34",
-      "pubdate": 1795291598,
-      "play": 94283
+      "play": 3633
     }
   ]
 }
