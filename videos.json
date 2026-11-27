@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-27T02:40:41.831Z",
+  "generatedAt": "2026-11-27T11:27:36.166Z",
   "videos": [
+    {
+      "bvid": "BV1Vr17zMEVj",
+      "title": "搅动边路，影响战局，一起来回顾多库对那不勒斯时的高光瞬间",
+      "author": "曼城足球俱乐部",
+      "creator": "official",
+      "pic": "https://i1.hdslb.com/bfs/archive/8da6b74ebfca26afa35290d2e65ce7d742fffe76.jpg",
+      "duration": "0:40",
+      "pubdate": 1795694092,
+      "play": 4096
+    },
     {
       "bvid": "BV1dgykzrEjh",
       "title": "好消息：又在伊蒂哈德看到德布劳内了！坏消息：曼城又一场不胜…",
@@ -9,7 +19,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/376fe1f8521789ca6a6934960801d48336924464.jpg",
       "duration": "5:12",
       "pubdate": 1795610596,
-      "play": 1190
+      "play": 1210
     },
     {
       "bvid": "BV1nrykznEYf",
@@ -19,7 +29,7 @@
       "pic": "https://i0.hdslb.com/bfs/archive/3d0458611b2e00d95ad9f895772a2d73dc6995a8.jpg",
       "duration": "0:19",
       "pubdate": 1795605615,
-      "play": 27281
+      "play": 29513
     },
     {
       "bvid": "BV14HyBzmE9E",
@@ -29,37 +39,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/fa74aa4d32edcf9485614a117d5ef40cbeaae594.jpg",
       "duration": "10:51",
       "pubdate": 1795586706,
-      "play": 3082
-    },
-    {
-      "bvid": "BV11KyDzjE4t",
-      "title": "德布劳内曼城十大助攻，一起来回顾蓝月国王的传奇风采",
-      "author": "曼城足球俱乐部",
-      "creator": "official",
-      "pic": "https://i0.hdslb.com/bfs/archive/5c9dcb700d1978706ff49a32e09213893c695642.jpg",
-      "duration": "9:39",
-      "pubdate": 1795436054,
-      "play": 23239
-    },
-    {
-      "bvid": "BV1cKyvzwEmu",
-      "title": "拉胯！曼城1比1富勒姆，极致拉胯！切尔西1比4利兹联！",
-      "author": "战术睡衣",
-      "creator": "pajama",
-      "pic": "https://i1.hdslb.com/bfs/archive/746233936c679b7987e8dbcc6f4b739082f8f659.jpg",
-      "duration": "12:34",
-      "pubdate": 1795291598,
-      "play": 96810
-    },
-    {
-      "bvid": "BV1f71ZY1E3a",
-      "title": "曼城vs富勒姆｜带娃和看球不可兼得｜科瓦契奇梅开二度｜多库世界波｜瓜迪奥拉我们想让留下!｜小糖的带娃初体验",
-      "author": "小糖姐姐呀",
-      "creator": "sugar",
-      "pic": "https://i0.hdslb.com/bfs/archive/b7b9055fc5e4826b23a4019fbbe3f68589979e70.jpg",
-      "duration": "8:24",
-      "pubdate": 1728169678,
-      "play": 32402
+      "play": 3171
     }
   ]
 }
