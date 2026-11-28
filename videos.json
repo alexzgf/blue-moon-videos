@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T10:59:04.012Z",
+  "generatedAt": "2026-11-28T18:51:10.763Z",
   "videos": [
     {
       "bvid": "BV1xj1MzYEBm",
@@ -9,7 +9,7 @@
       "pic": "https://i1.hdslb.com/bfs/archive/72e511df2696c675911644e56a7dd18a49c05eb3.jpg",
       "duration": "0:18",
       "pubdate": 1795853836,
-      "play": 2605
+      "play": 5093
     },
     {
       "bvid": "BV1Gr1KzBEGd",
@@ -19,7 +19,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/d9967f7ce3d547b9279b2310e7a747019f04c891.jpg",
       "duration": "0:25",
       "pubdate": 1795837869,
-      "play": 6037
+      "play": 10517
     },
     {
       "bvid": "BV1aZ1AzFEt7",
@@ -29,17 +29,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/3ececf8f3b338ce0f92324466454bef55b2f1ad2.jpg",
       "duration": "3:35",
       "pubdate": 1795832450,
-      "play": 1185
-    },
-    {
-      "bvid": "BV1dgykzrEjh",
-      "title": "好消息：又在伊蒂哈德看到德布劳内了！坏消息：曼城又一场不胜…",
-      "author": "缪可言Sean",
-      "creator": "miao",
-      "pic": "https://i0.hdslb.com/bfs/archive/376fe1f8521789ca6a6934960801d48336924464.jpg",
-      "duration": "5:12",
-      "pubdate": 1795610596,
-      "play": 1263
+      "play": 1320
     },
     {
       "bvid": "BV14HyBzmE9E",
@@ -49,17 +39,7 @@
       "pic": "https://i2.hdslb.com/bfs/archive/fa74aa4d32edcf9485614a117d5ef40cbeaae594.jpg",
       "duration": "10:51",
       "pubdate": 1795586706,
-      "play": 3320
-    },
-    {
-      "bvid": "BV1SQy3zGEnP",
-      "title": "曼城vs富勒姆｜我画地为牢，买菜｜哈兰德进球被吹｜安德森扳平比分",
-      "author": "小糖姐姐呀",
-      "creator": "sugar",
-      "pic": "https://i2.hdslb.com/bfs/archive/7758035056eaa0538b1648c3f0945f187930ac5b.jpg",
-      "duration": "7:17",
-      "pubdate": 1795314487,
-      "play": 3692
+      "play": 3364
     },
     {
       "bvid": "BV1cKyvzwEmu",
@@ -69,7 +49,27 @@
       "pic": "https://i1.hdslb.com/bfs/archive/746233936c679b7987e8dbcc6f4b739082f8f659.jpg",
       "duration": "12:34",
       "pubdate": 1795291598,
-      "play": 98608
+      "play": 99254
+    },
+    {
+      "bvid": "BV1GLMw6JEfR",
+      "title": "曼城集市大采购！我居然买了一箱衣服！？",
+      "author": "缪可言Sean",
+      "creator": "miao",
+      "pic": "https://i2.hdslb.com/bfs/archive/ee029ca836ea9a1ffe9ed0235b00184279cfaf6d.jpg",
+      "duration": "2:5",
+      "pubdate": 1783167517,
+      "play": 7223
+    },
+    {
+      "bvid": "BV1Wy411Y7r8",
+      "title": "当哈兰德罚进点球的一刹那 曼城死忠酒吧炸了",
+      "author": "小糖姐姐呀",
+      "creator": "sugar",
+      "pic": "https://i1.hdslb.com/bfs/archive/46ae6c5b2fae26de199ae8967f694c7fb8cda1df.jpg",
+      "duration": "3:56",
+      "pubdate": 1715726711,
+      "play": 77040
     }
   ]
 }
